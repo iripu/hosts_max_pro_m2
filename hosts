@@ -414,6 +414,7 @@
 0.0.0.0 cdn.api.twitter.com
 #0.0.0.0 platform.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 c.union.ucweb.com
 0.0.0.0 pixel-insight.ucweb.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 unrestery.info
@@ -699,6 +700,7 @@
 0.0.0.0 license.sublimehq.com
 0.0.0.0 www.adobeereg.com
 0.0.0.0 rink.hockeyapp.net
+0.0.0.0 deloplen.com
 #
 # Block aircel redirects
 #
@@ -847,6 +849,7 @@
 0.0.0.0 b.misslk.com
 0.0.0.0 banners.mellowads.com
 0.0.0.0 blacraft.com
+0.0.0.0 bmedia.justservingfiles.net
 0.0.0.0 c.bebi.com
 0.0.0.0 c13.zedo.com
 0.0.0.0 cache.linkstorm.net
@@ -932,6 +935,7 @@
 0.0.0.0 images.taboola.com
 0.0.0.0 images2.zemanta.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 imglnkd.com
 0.0.0.0 impfr.tradedoubler.com
 #0.0.0.0 insight.adsrvr.org
 0.0.0.0 interactive.guim.co.uk
@@ -1016,6 +1020,7 @@
 0.0.0.0 watchmoviesfree.tv
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 ws.tgbvfr.website
+0.0.0.0 www.adiktivetraffica.site
 0.0.0.0 www.blablacar.in
 0.0.0.0 www.duoup.info
 0.0.0.0 www.everestads.net
