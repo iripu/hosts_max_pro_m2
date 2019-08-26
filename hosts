@@ -1099,9 +1099,6 @@
 #
 # opera-mini
 #
-#0.0.0.0 mini5-1.opera-mini.net
-#0.0.0.0 mini5.opera-mini.net  #used for ads, but enabling won't load pages
-0.0.0.0 interstitial.opera-mini.net
 0.0.0.0 api.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 dev.appboy.com
