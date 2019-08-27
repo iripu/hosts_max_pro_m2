@@ -1041,6 +1041,73 @@
 #
 # from A94 hosts START
 #
+0.0.0.0 adcash.com
+0.0.0.0 applift.com
+0.0.0.0 heyzap.com
+0.0.0.0 vungle.com
+0.0.0.0 plexnor.cloudant.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 metrics.sdkbox.com
+0.0.0.0 api.appodeal.com
+0.0.0.0 admax.nexage.com
+0.0.0.0 nexage.com
+0.0.0.0 engine.sponsorpay.com
+0.0.0.0 a2.chartboost.com
+0.0.0.0 a.applvn.com
+0.0.0.0 cdnjs.applovin.com
+0.0.0.0 img.applovin.com
+0.0.0.0 vid.applovin.com
+0.0.0.0 service.fyber.com
+0.0.0.0 track.tenjin.io
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 apidm.airpush.com
+0.0.0.0 apportal.airpush.com
+0.0.0.0 cdnap.airpush.com
+0.0.0.0 global.appnext.com
+0.0.0.0 appnext.hs.llnwd.net
+0.0.0.0 api.g-messenger.com
+0.0.0.0 udm.scorecardresearch.com
+0.0.0.0 api.w.inmobi.com
+0.0.0.0 api.umengcloud.com
+0.0.0.0 uop.umeng.com
+0.0.0.0 stats.jpush.cn
+0.0.0.0 api.giphy.com
+0.0.0.0 wa.tenor.co
+#
+0.0.0.0 openspeech.cn
+0.0.0.0 data.openspeech.cn
+0.0.0.0 scs.openspeech.cn
+#
+0.0.0.0 affiliates.babylon.com
+0.0.0.0 www.onclickads.net
+0.0.0.0 kissmyads.com
+0.0.0.0 ostats.mozilla.com
+0.0.0.0 sostats.mozilla.com
+0.0.0.0 log.pinterest.com
+#
+0.0.0.0 click.startappservice.com
+0.0.0.0 dts.startappservice.com
+0.0.0.0 images.startappservice.com
+0.0.0.0 imp.startappservice.com
+0.0.0.0 info.static.startappservice.com
+0.0.0.0 init.startappservice.com
+0.0.0.0 req.startappservice.com
+0.0.0.0 www.startappexchange.com
+#
+# opera-mini
+#
+#0.0.0.0 mini5-1.opera-mini.net
+#0.0.0.0 mini5.opera-mini.net  #used for ads, but enabling won't load pages
+0.0.0.0 interstitial.opera-mini.net
+0.0.0.0 api.appsflyer.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 dev.appboy.com
+0.0.0.0 orion.iad.appboy.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 ads-opera.admarvel.com
 #
 # various football apps images
 #
