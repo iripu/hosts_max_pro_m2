@@ -700,7 +700,7 @@
 0.0.0.0 serius.mwbsys.com
 0.0.0.0 license.sublimehq.com
 0.0.0.0 www.adobeereg.com
-0.0.0.0 rink.hockeyapp.net
+#0.0.0.0 rink.hockeyapp.net
 #0.0.0.0 deloplen.com
 #
 # Block aircel redirects
@@ -819,12 +819,14 @@
 #
 # Block pictures in ad START
 #
+0.0.0.0 d10lumateci472.cloudfront.net
 #0.0.0.0 d1u4oo4rb13yy8.cloudfront.net
 0.0.0.0 d2pc0q32fod0ha.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
 #0.0.0.0 dp8hsntg6do36.cloudfront.net
 0.0.0.0 16x9.myfastcdn.com
+0.0.0.0 3x2.myfastcdn.co
 0.0.0.0 94982c5b634975e50103ce96082d2827.adsk2.co
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adsk2.co
 #0.0.0.0 aa-gb.mgid.com
@@ -836,6 +838,7 @@
 #0.0.0.0 ads.yahoo.com
 #0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads-a.juicyads.com
+0.0.0.0 ads-pd.nbcuni.com
 0.0.0.0 adsearch.adkontekst.pl
 #0.0.0.0 adserver.juicyads.com
 0.0.0.0 adsrvmedia.adk2.co
@@ -903,6 +906,7 @@
 0.0.0.0 creative.vrtzads.com
 0.0.0.0 crrepo.com
 0.0.0.0 d13.zedo.com
+0.0.0.0 d3x2.myfastcdn.com
 0.0.0.0 data.bambergerkennanchitinous.com
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 fbcdn-creative-a.akamaihd.net
@@ -961,6 +965,7 @@
 0.0.0.0 ocdn.adsterra.com
 0.0.0.0 optimized-by.vitalads.net
 0.0.0.0 owpawuk.ru
+0.0.0.0 p232207.mycdn.co
 0.0.0.0 p3024.mycdn.co
 0.0.0.0 pads.cdnads.com
 #0.0.0.0 padsdel.cdnads.com
