@@ -3,13 +3,11 @@
 #
 # start custom lines
 #
-0.0.0.0 partnersnp.indiatimes.com
-0.0.0.0 smartlock.google.com
 255.255.255.255	broadcasthost
 0.0.0.0 0.0.0.0 # fix for traceroute and netstat display anomaly
 #
 0.0.0.0 sdk.accountkit.com      # facebook login
-0.0.0.0 epaper.asomiyapratidin.in
+#0.0.0.0 epaper.asomiyapratidin.in
 0.0.0.0 atlanticmedia.122.2o7.net
 0.0.0.0 www.airtel.in
 0.0.0.0 cloudvid.cachefly.net
@@ -40,6 +38,7 @@
 0.0.0.0 amarasom.glpublications.in
 0.0.0.0 dl.google.com   # widevine plugin download url
 0.0.0.0 ogs.google.com
+0.0.0.0 smartlock.google.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 gravatar.com
 0.0.0.0 0.gravatar.com
@@ -532,11 +531,13 @@
 0.0.0.0 ads-miner.appspot.com
 0.0.0.0 authedmine.com
 0.0.0.0 chainblock.science
+0.0.0.0 cloud-miner.eu
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
 0.0.0.0 www.hashing.win
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
+0.0.0.0 load.jsecoin.com
 0.0.0.0 mine.torrent.pw
 #
 # redirects to window hijacking pages
@@ -826,7 +827,7 @@
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
 #0.0.0.0 dp8hsntg6do36.cloudfront.net
 0.0.0.0 16x9.myfastcdn.com
-0.0.0.0 3x2.myfastcdn.co
+0.0.0.0 3x2.myfastcdn.com
 0.0.0.0 94982c5b634975e50103ce96082d2827.adsk2.co
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adsk2.co
 #0.0.0.0 aa-gb.mgid.com
@@ -924,6 +925,7 @@
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 hw-cdn-ap.trafficjunky.net
 0.0.0.0 i.atadserver.com
+0.0.0.0 i.jads.co
 0.0.0.0 i.ndtvimg.com
 0.0.0.0 i61.tinypic.com
 0.0.0.0 i65.tinypic.com
@@ -1034,6 +1036,7 @@
 0.0.0.0 www.gannett-cdn.com
 0.0.0.0 www.hbd-cm.com
 0.0.0.0 www.imglnkb.com
+0.0.0.0 www.imglnkd.com
 0.0.0.0 www.irctctourism.com
 0.0.0.0 www.lalola.pl
 0.0.0.0 www.liveinstyle.com
@@ -1048,6 +1051,7 @@
 #
 # from A94 hosts START
 #
+0.0.0.0 partnersnp.indiatimes.com
 0.0.0.0 adcash.com
 0.0.0.0 applift.com
 0.0.0.0 heyzap.com
