@@ -1097,10 +1097,16 @@
 0.0.0.0 api.umengcloud.com
 0.0.0.0 uop.umeng.com
 0.0.0.0 stats.jpush.cn
-0.0.0.0 api.giphy.com
-0.0.0.0 wa.tenor.co
 0.0.0.0 bradeliade.com
 0.0.0.0 www.pdftron.com
+#
+0.0.0.0 api.giphy.com
+0.0.0.0 wa.tenor.co
+0.0.0.0 g.tenor.com
+0.0.0.0 media.tenor.com
+0.0.0.0 tenor.googleapis.com
+0.0.0.0 eyckavatar-pa.googleapis.com
+#0.0.0.0 sticker-pa.googleapis.com
 #
 0.0.0.0 openspeech.cn
 0.0.0.0 data.openspeech.cn
