@@ -7,14 +7,13 @@
 0.0.0.0 0.0.0.0 # fix for traceroute and netstat display anomaly
 #
 0.0.0.0 sdk.accountkit.com      # facebook login
-#0.0.0.0 epaper.asomiyapratidin.in
 0.0.0.0 atlanticmedia.122.2o7.net
-#0.0.0.0 www.airtel.in
 0.0.0.0 cloudvid.cachefly.net
 0.0.0.0 st.chatango.com
 0.0.0.0 call.chatra.io
 0.0.0.0 chat.chatra.io
 0.0.0.0 uc.chatra.io
+0.0.0.0 www.europacasino.com
 0.0.0.0 ezimg.ch
 0.0.0.0 www.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
@@ -36,7 +35,7 @@
 #0.0.0.0 avatars3.githubusercontent.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 amarasom.glpublications.in
-0.0.0.0 dl.google.com   # widevine plugin download url
+#0.0.0.0 dl.google.com   # widevine plugin download url
 0.0.0.0 ogs.google.com
 0.0.0.0 smartlock.google.com
 0.0.0.0 fonts.googleapis.com
@@ -880,6 +879,7 @@
 0.0.0.0 allegro-allegro.bannerflow.com
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 c.bebi.com
+0.0.0.0 source.bidgear.com
 0.0.0.0 mh.bit-bork-boodle.com
 0.0.0.0 blacraft.com
 0.0.0.0 www.blablacar.in
@@ -930,6 +930,7 @@
 0.0.0.0 imglnkd.com
 0.0.0.0 www.imglnkb.com
 0.0.0.0 www.imglnkd.com
+0.0.0.0 i.imstks.com
 0.0.0.0 resources.infolinks.com
 0.0.0.0 cdn.insigit.com
 0.0.0.0 media2.intoday.in
@@ -990,6 +991,8 @@
 0.0.0.0 main.pubexchange.com
 0.0.0.0 cdn.puffnetwork.com
 0.0.0.0 bvadimgs.scdn7.secure.raxcdn.com
+0.0.0.0 a.realsrv.com
+0.0.0.0 static.realsrv.com
 0.0.0.0 static.realtime-bid.com
 0.0.0.0 xml.realtime-bid.com
 0.0.0.0 img.revcontent.com
@@ -1006,6 +1009,7 @@
 0.0.0.0 media.servingmillions.com
 0.0.0.0 static.shareasale.com
 0.0.0.0 www.skamba.club
+0.0.0.0 socialbars-web5.com
 0.0.0.0 s.spolecznosci.net
 0.0.0.0 cdn.spoutable.com
 0.0.0.0 cdn-eu-vid1.statserv.net
@@ -1041,7 +1045,9 @@
 0.0.0.0 cdnx.tribalfusion.com
 0.0.0.0 s-img.traffic-media.co.uk
 0.0.0.0 ts-ads.ru
+0.0.0.0 tsyndicate.com
 0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 vcdn.tsyndicate.com
 0.0.0.0 ubercpm.com
 0.0.0.0 img.ucweb.com
 0.0.0.0 cdn.user-api.com
