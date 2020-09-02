@@ -7,6 +7,7 @@
 0.0.0.0 0.0.0.0 # fix for traceroute and netstat display anomaly
 #
 0.0.0.0 sdk.accountkit.com      # facebook login
+0.0.0.0 dlt.airtel.in # hijacks blocked site to show msg from airtel
 0.0.0.0 atlanticmedia.122.2o7.net
 0.0.0.0 cloudvid.cachefly.net
 0.0.0.0 st.chatango.com
@@ -673,6 +674,11 @@
 0.0.0.0 activation.cloud.techsmith.com
 0.0.0.0 analytics29.techsmith.com
 0.0.0.0 www.techsmith.com
+#
+# Adobe CS
+#
+0.0.0.0 crlog-crcn.adobe.com
+0.0.0.0 rushinfo.adobe.com
 #
 # Other softwares
 #
