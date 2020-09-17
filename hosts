@@ -14,6 +14,7 @@
 0.0.0.0 call.chatra.io
 0.0.0.0 chat.chatra.io
 0.0.0.0 uc.chatra.io
+0.0.0.0 vid.dnaindia.com
 0.0.0.0 www.europacasino.com
 0.0.0.0 ezimg.ch
 0.0.0.0 www.facebook.com
@@ -47,6 +48,7 @@
 0.0.0.0 secure.gravatar.com
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 s.in.com
+0.0.0.0 vid.india.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 nexus-websocket-a.intercom.io
@@ -85,6 +87,7 @@
 #0.0.0.0 downloads.wordpress.org
 0.0.0.0 yts.ag
 0.0.0.0 yts.am
+0.0.0.0 demo.zeenews.com
 #
 # tracking everywhere
 #
@@ -129,6 +132,7 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 ht-fpweb.native.andbeyond.media
+0.0.0.0 rtbcdn.andbeyond.media
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 app.link
 0.0.0.0 appared.online
@@ -166,6 +170,7 @@
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 gpush.cogocast.net
 0.0.0.0 tag.cogocast.net
@@ -183,6 +188,7 @@
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 cm.ctnsnet.com
+0.0.0.0 dcpub.cuberoot.co
 0.0.0.0 t.cwkuki.com
 0.0.0.0 dpm.demdex.net #adobe tracking
 0.0.0.0 vodafonein.demdex.net
@@ -328,6 +334,7 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 assets.pcrl.co
 0.0.0.0 stags.peer39.net
+0.0.0.0 widget.perfectmarket.com
 0.0.0.0 client.perimeterx.net
 0.0.0.0 api.pinterest.com
 0.0.0.0 assets.pinterest.com
@@ -381,6 +388,7 @@
 0.0.0.0 r.skimresources.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 t.skimresources.com
+0.0.0.0 counter.snackly.co
 0.0.0.0 pixel.sojern.com
 0.0.0.0 chuknu.sokrati.com
 0.0.0.0 apex.go.sonobi.com
@@ -403,8 +411,12 @@
 0.0.0.0 sync.teads.tv
 0.0.0.0 t.teads.tv
 0.0.0.0 uconnect.tealiumiq.com
+0.0.0.0 b-s.tercept.com
+0.0.0.0 cdn.tercept.com
 0.0.0.0 thegafapps.com
 0.0.0.0 sync.tidaltv.com
+0.0.0.0 counter.tldw.me
+0.0.0.0 errors.tldw.me
 #0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 tru.am
 0.0.0.0 sofia.trustx.org
@@ -554,6 +566,7 @@
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 inewcontentdelivery.info
 0.0.0.0 doctoconve.club
+0.0.0.0 luckypushh.com
 0.0.0.0 pushnest.com
 0.0.0.0 reculdrothense.info
 0.0.0.0 tofretonlepa.info
@@ -679,6 +692,20 @@
 #
 0.0.0.0 crlog-crcn.adobe.com
 0.0.0.0 rushinfo.adobe.com
+#
+# Filmora9
+#
+0.0.0.0 support.wondershare.net
+0.0.0.0 platform.wondershare.com
+0.0.0.0 api.wondershare.com
+0.0.0.0 account.wondershare.com
+0.0.0.0 useroperation.wondershare.com
+0.0.0.0 helper-stats.wondershare.com
+0.0.0.0 cbs.wondershare.com
+0.0.0.0 pop.wondershare.com
+0.0.0.0 filmora.wondershare.com
+0.0.0.0 images.wondershare.com
+0.0.0.0 my.wondershare.com
 #
 # Other softwares
 #
@@ -967,7 +994,7 @@
 0.0.0.0 imgg-cdn.mgid.com
 0.0.0.0 imggprx.mgid.com
 0.0.0.0 s-img.mgid.com
-0.0.0.0 images.mid-day.com
+#0.0.0.0 images.mid-day.com
 0.0.0.0 p232207.mycdn.co
 0.0.0.0 p3024.mycdn.co
 0.0.0.0 myfastcdn.com
@@ -1140,6 +1167,14 @@
 0.0.0.0 init.startappservice.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 www.startappexchange.com
+#
+# gaana, jiosaavn
+#
+0.0.0.0 gaana.helpshift.com
+0.0.0.0 opt.toiimg.com            #gaana buzz news
+0.0.0.0 slike-v.akamaized.net     #gaana buzz video
+0.0.0.0 vodhlslive.akamaized.net  #gaana hotshots video
+0.0.0.0 vodhls-vh.akamaihd.net    #gaana hotshots video
 #
 # opera-mini
 #
