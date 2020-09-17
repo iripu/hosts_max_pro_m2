@@ -1171,10 +1171,9 @@
 # gaana
 #
 0.0.0.0 gaana.helpshift.com
-0.0.0.0 opt.toiimg.com            #gaana buzz news
-0.0.0.0 slike-v.akamaized.net     #gaana buzz video
-0.0.0.0 vodhlslive.akamaized.net  #gaana hotshots video
-0.0.0.0 vodhls-vh.akamaihd.net    #gaana hotshots video
+0.0.0.0 opt.toiimg.com                  #gaana buzz news
+0.0.0.0 slike-v.akamaized.net         #gaana buzz video
+0.0.0.0 vodhlslive.akamaized.net    #gaana hotshots video
 #
 # opera-mini
 #
