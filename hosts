@@ -568,20 +568,23 @@
 # shows fake notification
 #
 0.0.0.0 arrarcontentdelivery.info
+0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
+0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
+0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 inewcontentdelivery.info
-0.0.0.0 doctoconve.club
+#0.0.0.0 doctoconve.club
 0.0.0.0 luckypushh.com
 0.0.0.0 pushnest.com
 0.0.0.0 pushrase.com
 0.0.0.0 reculdrothense.info
-0.0.0.0 ricyeventur.club
+#0.0.0.0 ricyeventur.club
 0.0.0.0 tofretonlepa.info
 0.0.0.0 varielcontentdelivery.info
 0.0.0.0 webcontentdelivery.info
-0.0.0.0 xtensotherec.club
-0.0.0.0 lyhandredsa.club #over rhs
-0.0.0.0 webpinp.com #over rhs
+#0.0.0.0 xtensotherec.club
+#0.0.0.0 lyhandredsa.club #over rhs
+#0.0.0.0 webpinp.com #over rhs
 #
 # malware
 #
@@ -930,6 +933,7 @@
 0.0.0.0 console.brax-cdn.com
 0.0.0.0 account.bulletprofit.com
 0.0.0.0 cloud.cashtrafic.info
+0.0.0.0 img.cdn.house
 0.0.0.0 pads.cdnads.com
 #0.0.0.0 padsdel.cdnads.com
 #0.0.0.0 padsdel2.cdnads.com
