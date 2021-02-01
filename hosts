@@ -40,13 +40,13 @@
 #0.0.0.0 dl.google.com   # widevine plugin download url
 0.0.0.0 ogs.google.com
 0.0.0.0 smartlock.google.com
-0.0.0.0 fonts.googleapis.com
+#0.0.0.0 fonts.googleapis.com
 0.0.0.0 gravatar.com
 0.0.0.0 0.gravatar.com
 0.0.0.0 1.gravatar.com
 0.0.0.0 2.gravatar.com
 0.0.0.0 secure.gravatar.com
-0.0.0.0 fonts.gstatic.com
+#0.0.0.0 fonts.gstatic.com
 0.0.0.0 s.in.com
 0.0.0.0 vid.india.com
 0.0.0.0 platform.instagram.com
@@ -879,7 +879,9 @@
 0.0.0.0 gm.a4g.com
 0.0.0.0 cdn.abcsrv1.com
 0.0.0.0 achilles-ena.com
+0.0.0.0 s3t3d2y7.ackcdn.net
 0.0.0.0 cdn15.acloudimages.com
+0.0.0.0 cdn15a.acloudimages.com
 0.0.0.0 cdn2.ad-center.com
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 assets.bro.adca.st
@@ -899,6 +901,7 @@
 0.0.0.0 imgg.adskeeper.co.uk
 0.0.0.0 imgg-cdn.adskeeper.co.uk
 0.0.0.0 s-img.adskeeper.co.uk
+0.0.0.0 s-img.adskeeper.com
 0.0.0.0 cdn.adsnative.com
 #0.0.0.0 insight.adsrvr.org
 0.0.0.0 html5.adsrvr.org
@@ -916,6 +919,7 @@
 0.0.0.0 ngs-vh.akamaihd.net
 0.0.0.0 vodibnlive-vh.akamaihd.net
 0.0.0.0 g01.a.alicdn.com
+0.0.0.0 cdn2.allirontek.com
 0.0.0.0 b.am15.net
 0.0.0.0 player.aniview.com
 0.0.0.0 track1.aniview.com
@@ -927,6 +931,7 @@
 0.0.0.0 allegro-allegro.bannerflow.com
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 c.bebi.com
+0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 source.bidgear.com
 0.0.0.0 mh.bit-bork-boodle.com
 0.0.0.0 blacraft.com
@@ -943,6 +948,8 @@
 0.0.0.0 s1.static.cfgr2.com
 0.0.0.0 static.clmbtech.com
 0.0.0.0 clotezar.com
+0.0.0.0 cloudimagesa.com
+0.0.0.0 cdn.cluodlfare.com
 0.0.0.0 airfoil-assets.condenastdigital.com
 #0.0.0.0 ads2.contentabc.com
 #0.0.0.0 hw-cdn.contentabc.com
@@ -954,8 +961,10 @@
 0.0.0.0 cdn3.cpmstar.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 crrepo.com
+0.0.0.0 c.d1272serve.xyz
 0.0.0.0 video.dailymail.co.uk
 0.0.0.0 www.duoup.info
+0.0.0.0 easy-bars.com
 0.0.0.0 cdn1.eclkspbn.com
 0.0.0.0 cdn.epommarket.com
 0.0.0.0 www.everestads.net
@@ -968,7 +977,7 @@
 0.0.0.0 img.gamedistribution.com
 0.0.0.0 gamesrevenu24.com
 0.0.0.0 cdn.gamesrevenue.com
-0.0.0.0 www.gannett-cdn.com
+#0.0.0.0 www.gannett-cdn.com
 0.0.0.0 imasdk.googleapis.com
 #0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 static.groovinads.com
@@ -989,6 +998,7 @@
 0.0.0.0 ngp4.intnotif.club
 0.0.0.0 media2.intoday.in
 0.0.0.0 www.irctctourism.com
+0.0.0.0 cdn2.irontekcrew.com
 0.0.0.0 i.jads.co
 0.0.0.0 static.javhd.com
 0.0.0.0 assetscdn.jivox.com
@@ -1029,6 +1039,7 @@
 0.0.0.0 newsx9.com
 #0.0.0.0 media.newyorker.com
 #0.0.0.0 vignette.wikia.nocookie.net
+0.0.0.0 f1cdn.nsimg.net
 0.0.0.0 int.nyt.com
 0.0.0.0 offerimage.com
 #0.0.0.0 track.in.omgpm.com
@@ -1061,11 +1072,13 @@
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure-msntest.serving-sys.com
 0.0.0.0 media.servingmillions.com
+0.0.0.0 cdn.shacsda.name
 0.0.0.0 static.shareasale.com
 0.0.0.0 www.skamba.club
 0.0.0.0 socialbars-web5.com
 0.0.0.0 s.spolecznosci.net
 0.0.0.0 cdn.spoutable.com
+0.0.0.0 dn.srv1272.com
 0.0.0.0 cdn-eu-vid1.statserv.net
 0.0.0.0 imgg.steepto.com
 0.0.0.0 imgg-cdn.steepto.com
@@ -1088,9 +1101,12 @@
 0.0.0.0 cdn.top4top.net
 0.0.0.0 hst.tradedoubler.com
 0.0.0.0 impfr.tradedoubler.com
+0.0.0.0 banners-cdn77.trafficfactory.biz
+0.0.0.0 banners-hw.trafficfactory.biz
 0.0.0.0 cdnegc.trafficfactory.biz
 0.0.0.0 media.trafficfactory.biz
 0.0.0.0 cdn1ht.traffichaus.com
+0.0.0.0 ht-cdn.trafficjunky.net
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 hw-cdn-ap.trafficjunky.net
 #0.0.0.0 media.trafficjunky.net
@@ -1112,6 +1128,7 @@
 0.0.0.0 creative.vrtzads.com
 0.0.0.0 view.vzaar.com
 0.0.0.0 watchmoviesfree.tv
+0.0.0.0 i.wmgtr.com
 #0.0.0.0 cdn.wwwpromoter.com
 0.0.0.0 cdn.x1cdn.com
 #0.0.0.0 ads.yahoo.com
