@@ -567,26 +567,32 @@
 #
 # shows fake notification
 #
-0.0.0.0 arrarcontentdelivery.info
 0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
 0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
-0.0.0.0 inewcontentdelivery.info
+0.0.0.0 arrarcontentdelivery.info
+0.0.0.0 astancerta.fun
 #0.0.0.0 doctoconve.club
+0.0.0.0 eggsosgum.site #click notif middle
+0.0.0.0 fortsexpres.club #ad notif rhs
+0.0.0.0 inewcontentdelivery.info
+0.0.0.0 cdn.itphanpytor.club
+0.0.0.0 kiuprocessary.club #ad notif rhs
 0.0.0.0 luckypushh.com
+#0.0.0.0 lyhandredsa.club #ad notif rhs
 0.0.0.0 pushnest.com
 0.0.0.0 pushrase.com
 0.0.0.0 reculdrothense.info
 #0.0.0.0 ricyeventur.club
+0.0.0.0 sehoweve.fun
 0.0.0.0 tofretonlepa.info
 0.0.0.0 varielcontentdelivery.info
 0.0.0.0 webcontentdelivery.info
-#0.0.0.0 xtensotherec.club #main
-0.0.0.0 fortsexpres.club #ad notif rhs
-#0.0.0.0 lyhandredsa.club #ad notif rhs
 0.0.0.0 webpinp.com #ad notif rhs
-0.0.0.0 kiuprocessary.club #ad notif rhs
+0.0.0.0 wronwaskinthetron.pro #blocks click, disables scroll
+#0.0.0.0 xtensotherec.club #main
+0.0.0.0 cdn.yourwebbars.com #ad notif rhs
 #
 # malware
 #
@@ -928,6 +934,7 @@
 0.0.0.0 i.atadserver.com
 0.0.0.0 static.avgle.com
 0.0.0.0 data.bambergerkennanchitinous.com
+0.0.0.0 banesnorttat.cam
 0.0.0.0 allegro-allegro.bannerflow.com
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 c.bebi.com
@@ -944,11 +951,13 @@
 #0.0.0.0 padsdel.cdnads.com
 #0.0.0.0 padsdel2.cdnads.com
 #0.0.0.0 cdnativ.com
+0.0.0.0 static.cdnativepush.com
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 s1.static.cfgr2.com
 0.0.0.0 static.clmbtech.com
 0.0.0.0 clotezar.com
 0.0.0.0 cloudimagesa.com
+0.0.0.0 cdn.cloudimagesb.com
 0.0.0.0 cdn.cluodlfare.com
 0.0.0.0 airfoil-assets.condenastdigital.com
 #0.0.0.0 ads2.contentabc.com
@@ -986,6 +995,7 @@
 0.0.0.0 player.h-cdn.com
 0.0.0.0 www.hbd-cm.com
 0.0.0.0 x4i6u4n6.ssl.hwcdn.net
+0.0.0.0 ideliv.net
 0.0.0.0 idelv.net
 0.0.0.0 imglnkd.com
 0.0.0.0 www.imglnkb.com
@@ -1012,6 +1022,7 @@
 0.0.0.0 tools.lifeselector.com
 0.0.0.0 gido.linkatar.com
 0.0.0.0 cache.linkstorm.net
+0.0.0.0 littlecdn.com
 0.0.0.0 www.liveinstyle.com
 0.0.0.0 lugiy.ru
 0.0.0.0 maiaracosta.com.br
@@ -1021,6 +1032,7 @@
 0.0.0.0 creative.mathads.com
 #0.0.0.0 aa-gb.mgid.com
 #0.0.0.0 ab-gb.mgid.com
+0.0.0.0 cdn.mgid.com
 0.0.0.0 imgg.mgid.com
 0.0.0.0 imgg-cdn.mgid.com
 0.0.0.0 imggprx.mgid.com
@@ -1080,10 +1092,12 @@
 0.0.0.0 cdn.spoutable.com
 0.0.0.0 dn.srv1272.com
 0.0.0.0 cdn-eu-vid1.statserv.net
+0.0.0.0 cdn.steepto.com
 0.0.0.0 imgg.steepto.com
 0.0.0.0 imgg-cdn.steepto.com
 0.0.0.0 s-img.steepto.com
 0.0.0.0 www.stickyday.com
+0.0.0.0 static.surfe.be
 0.0.0.0 tablebehav.club
 0.0.0.0 images.taboola.com
 0.0.0.0 cdn.taboolasyndication.com
