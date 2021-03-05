@@ -8,7 +8,10 @@
 #
 0.0.0.0 sdk.accountkit.com      # facebook login
 0.0.0.0 dlt.airtel.in # hijacks blocked site to show msg from airtel
+0.0.0.0 one.airtel.in
 0.0.0.0 atlanticmedia.122.2o7.net
+0.0.0.0 brave-today-cdn.brave.com
+0.0.0.0 pcdn.brave.com
 0.0.0.0 cloudvid.cachefly.net
 0.0.0.0 st.chatango.com
 0.0.0.0 call.chatra.io
@@ -1135,6 +1138,7 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 vcdn.tsyndicate.com
+0.0.0.0 cdn81.turkakisi.tv
 0.0.0.0 ubercpm.com
 0.0.0.0 img.ucweb.com
 0.0.0.0 cdn.user-api.com
