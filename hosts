@@ -89,7 +89,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 c2.popads.net
 0.0.0.0 img.readitlater.com
 0.0.0.0 alb.reddit.com
-0.0.0.0 np.reddit.com
+#0.0.0.0 np.reddit.com
 #0.0.0.0 old.reddit.com
 0.0.0.0 meo.speedvid.net
 0.0.0.0 palemoon.start.me
@@ -907,6 +907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.abcsrv1.com
 0.0.0.0 achilles-ena.com
 0.0.0.0 s3t3d2y7.ackcdn.net
+0.0.0.0 u3y8v8u3.ackcdn.net
 0.0.0.0 cdn15.acloudimages.com
 0.0.0.0 cdn15a.acloudimages.com
 0.0.0.0 cdn2.ad-center.com
@@ -958,6 +959,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.avgle.com
 0.0.0.0 data.bambergerkennanchitinous.com
 0.0.0.0 banesnorttat.cam
+0.0.0.0 i.bangassets.com
 0.0.0.0 allegro-allegro.bannerflow.com
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 c.bebi.com
@@ -966,6 +968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mh.bit-bork-boodle.com
 0.0.0.0 blacraft.com
 0.0.0.0 www.blablacar.in
+0.0.0.0 cdn.bncloudfl.com
 0.0.0.0 console.brax-cdn.com
 0.0.0.0 account.bulletprofit.com
 0.0.0.0 cloud.cashtrafic.info
@@ -1153,6 +1156,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ht-cdn.trafficjunky.net
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 hw-cdn-ap.trafficjunky.net
+0.0.0.0 hw-cdn2.trafficjunky.net
 #0.0.0.0 media.trafficjunky.net
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 cdn.trafficstars.com
