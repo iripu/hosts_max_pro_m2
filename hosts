@@ -441,6 +441,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.api.twitter.com
 #0.0.0.0 platform.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 buy.tinypass.com
+0.0.0.0 experience.tinypass.com
 0.0.0.0 c.union.ucweb.com
 0.0.0.0 pixel-insight.ucweb.com
 0.0.0.0 www.ugdturner.com
@@ -999,6 +1001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 crrepo.com
 0.0.0.0 c.d1272serve.xyz
 0.0.0.0 video.dailymail.co.uk
+0.0.0.0 static.doubleclick.net
 0.0.0.0 www.duoup.info
 0.0.0.0 www.dwetwdstom1020.com
 0.0.0.0 easy-bars.com
@@ -1228,11 +1231,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 bradeliade.com
 0.0.0.0 www.pdftron.com
 #
-0.0.0.0 api.giphy.com
+#0.0.0.0 api.giphy.com
 0.0.0.0 api.tenor.com
 0.0.0.0 wa.tenor.co
 0.0.0.0 g.tenor.com
-0.0.0.0 media.tenor.com
+#0.0.0.0 media.tenor.com
 0.0.0.0 tenor.googleapis.com
 0.0.0.0 eyckavatar-pa.googleapis.com
 #0.0.0.0 sticker-pa.googleapis.com
