@@ -51,7 +51,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector.githubapp.com
 0.0.0.0 amarasom.glpublications.in
 #0.0.0.0 dl.google.com   # widevine plugin download url
-0.0.0.0 ogs.google.com
+#0.0.0.0 ogs.google.com   # disables google apps list widget
 0.0.0.0 smartlock.google.com
 #0.0.0.0 fonts.googleapis.com
 0.0.0.0 gravatar.com
@@ -292,6 +292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 platform.linkedin.com
+0.0.0.0 px.ads.linkedin.com
 0.0.0.0 cm.dsp.linksynergy.com
 0.0.0.0 c.live.com
 0.0.0.0 m2d.m2.ai
@@ -607,6 +608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sehoweve.fun
 0.0.0.0 tofretonlepa.info
 0.0.0.0 t0gkj99krb24.com #ad notif rhs
+0.0.0.0 uwoaptee.com
 0.0.0.0 varielcontentdelivery.info
 0.0.0.0 webcontentdelivery.info
 0.0.0.0 webpinp.com #ad notif rhs
@@ -1096,6 +1098,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 pickytime.com
 0.0.0.0 pixxur.com
 0.0.0.0 www.plaba.site
+0.0.0.0 live.primis.tech
 0.0.0.0 prstatics.com
 0.0.0.0 static.ptoahaistais.com
 0.0.0.0 main.pubexchange.com
@@ -1233,6 +1236,7 @@ ff02::3 ip6-allhosts
 #
 #0.0.0.0 api.giphy.com
 0.0.0.0 api.tenor.com
+#0.0.0.0 wa.tenor.co
 0.0.0.0 g.tenor.com
 0.0.0.0 media.tenor.com
 0.0.0.0 tenor.googleapis.com
