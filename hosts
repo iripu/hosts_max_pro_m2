@@ -14,10 +14,10 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0 # fix for traceroute and netstat display anomaly
+0.0.0.0 0.0.0.0                                         # fix for traceroute and netstat display anomaly
 #
-0.0.0.0 sdk.accountkit.com      # facebook login
-0.0.0.0 dlt.airtel.in # hijacks blocked site to show msg from airtel
+0.0.0.0 sdk.accountkit.com                              # facebook login
+0.0.0.0 dlt.airtel.in                                   # hijacks blocked site to show msg from airtel
 0.0.0.0 one.airtel.in
 0.0.0.0 atlanticmedia.122.2o7.net
 0.0.0.0 brave-today-cdn.brave.com
@@ -27,6 +27,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 call.chatra.io
 0.0.0.0 chat.chatra.io
 0.0.0.0 uc.chatra.io
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 vid.dnaindia.com
 0.0.0.0 www.europacasino.com
 0.0.0.0 ezimg.ch
@@ -50,8 +51,8 @@ ff02::3 ip6-allhosts
 #0.0.0.0 avatars3.githubusercontent.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 amarasom.glpublications.in
-#0.0.0.0 dl.google.com   # widevine plugin download url
-#0.0.0.0 ogs.google.com   # disables google apps list widget
+#0.0.0.0 dl.google.com                                  # widevine plugin download url
+#0.0.0.0 ogs.google.com                                 # disables google apps list widget
 0.0.0.0 smartlock.google.com
 #0.0.0.0 fonts.googleapis.com
 0.0.0.0 gravatar.com
@@ -69,7 +70,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 ip-api.com
 0.0.0.0 www.linkedin.com
-0.0.0.0 gj.mmstat.com #alibaba tracking
+0.0.0.0 gj.mmstat.com                                   # alibaba tracking
 0.0.0.0 perf.mmstat.com
 0.0.0.0 cmap.alibaba.com
 #0.0.0.0 vast.mtngt.com
@@ -84,7 +85,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 et.nytimes.com
 0.0.0.0 vp.nyt.com
 0.0.0.0 start.palemoon.org
-0.0.0.0 pocket-image-cache.com
+#0.0.0.0 pocket-image-cache.com
 #0.0.0.0 c1.popads.net
 #0.0.0.0 c2.popads.net
 0.0.0.0 img.readitlater.com
@@ -163,7 +164,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.bing.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 www.bizographics.com
-0.0.0.0 stags.bluekai.com #oracle tracking
+0.0.0.0 stags.bluekai.com                               # oracle tracking
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tracker.brainsins.com
@@ -205,7 +206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 dcpub.cuberoot.co
 0.0.0.0 t.cwkuki.com
-0.0.0.0 dpm.demdex.net #adobe tracking
+0.0.0.0 dpm.demdex.net                                  # adobe tracking
 0.0.0.0 vodafonein.demdex.net
 0.0.0.0 a.disquscdn.com
 #0.0.0.0 c.disquscdn.com
@@ -285,7 +286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.keen.io
 0.0.0.0 apps-res.kiosked.com
 0.0.0.0 s.komoona.com
-0.0.0.0 cdn.krxd.net #salesforce tracking
+0.0.0.0 cdn.krxd.net                                    # salesforce tracking
 0.0.0.0 beacon.krxd.net
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 i.liadm.com
@@ -326,7 +327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tw.netcore.co.in
 0.0.0.0 cmp.network-n.com
 0.0.0.0 js-agent.newrelic.com
-0.0.0.0 e.nexac.com #oracle tracking
+0.0.0.0 e.nexac.com                                     # oracle tracking
 0.0.0.0 p.nexac.com
 0.0.0.0 r.nexac.com
 0.0.0.0 consent.cmp.oath.com
@@ -398,7 +399,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 native.sharethrough.com
 0.0.0.0 api.simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
-#0.0.0.0 um.simpli.fi                            # https://www.webs.com stops working
+#0.0.0.0 um.simpli.fi                                   # www.webs.com stops working
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 p.skimresources.com
 0.0.0.0 r.skimresources.com
@@ -451,7 +452,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats3.unrulymedia.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 w.usabilla.com
-0.0.0.0 api.userstyles.org #stylish extension tracking
+0.0.0.0 api.userstyles.org                              # stylish extension tracking
 0.0.0.0 cdn.vdopia.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 l2.visiblemeasures.com
@@ -575,7 +576,7 @@ ff02::3 ip6-allhosts
 #
 #0.0.0.0 xml.explorads.com
 #0.0.0.0 oqwedcb9fsf.xyz
-0.0.0.0 win-help-alert.site #creates repeated popups
+0.0.0.0 win-help-alert.site                             # creates repeated popups
 0.0.0.0 eeq1s8pqpk.com
 0.0.0.0 liveappfree.cool
 0.0.0.0 securegate.xyz
@@ -585,36 +586,39 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
 0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
+0.0.0.0 d3ou4areduq72f.cloudfront.net                   # ad notif middle
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
-0.0.0.0 acalatthen.fun #ad notif rhs
+0.0.0.0 acalatthen.fun                                  # ad notif rhs
 0.0.0.0 arrarcontentdelivery.info
 0.0.0.0 astancerta.fun
+0.0.0.0 celiberald.xyz                                  # ad notif rhs
 #0.0.0.0 doctoconve.club
-0.0.0.0 eggsosgum.site #click notif middle
-0.0.0.0 emanpro.fun #ad notif rhs
-0.0.0.0 fortsexpres.club #ad notif rhs
-0.0.0.0 geverythingr.biz #ad notif rhs
+0.0.0.0 eggsosgum.site                                  # click notif middle
+0.0.0.0 emanpro.fun                                     # ad notif rhs
+0.0.0.0 forlumineoner.com
+0.0.0.0 fortsexpres.club                                # ad notif rhs
+0.0.0.0 geverythingr.biz                                # ad notif rhs
 0.0.0.0 inewcontentdelivery.info
 0.0.0.0 cdn.itphanpytor.club
-0.0.0.0 kiuprocessary.club #ad notif rhs
+0.0.0.0 kiuprocessary.club                              # ad notif rhs
 0.0.0.0 luckypushh.com
-#0.0.0.0 lyhandredsa.club #ad notif rhs
+#0.0.0.0 lyhandredsa.club                               # ad notif rhs
 0.0.0.0 pushnest.com
 0.0.0.0 pushrase.com
 0.0.0.0 reculdrothense.info
 #0.0.0.0 ricyeventur.club
 0.0.0.0 sehoweve.fun
 0.0.0.0 tofretonlepa.info
-0.0.0.0 t0gkj99krb24.com #ad notif rhs
+0.0.0.0 t0gkj99krb24.com                                # ad notif rhs
 0.0.0.0 uwoaptee.com
 0.0.0.0 varielcontentdelivery.info
 0.0.0.0 webcontentdelivery.info
-0.0.0.0 webpinp.com #ad notif rhs
-0.0.0.0 wronwaskinthetron.pro #blocks click, disables scroll
-#0.0.0.0 xtensotherec.club #main
-0.0.0.0 cdn.yourwebbars.com #ad notif rhs
+0.0.0.0 webpinp.com                                     # ad notif rhs
+0.0.0.0 wronwaskinthetron.pro                           # blocks click, disables scroll
+#0.0.0.0 xtensotherec.club                              # main
+0.0.0.0 cdn.yourwebbars.com                             # ad notif rhs
 #
 # malware
 #
@@ -656,11 +660,49 @@ ff02::3 ip6-allhosts
 0.0.0.0 redir.metaservices.windowsmedia.com.akadns.net
 0.0.0.0 serviceswitching.metadata.windowsmedia.com.akadns.net
 #
+# Edge browser
+#
+#0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net    # welcome url
+#0.0.0.0 mem.gfx.ms                                     # welcome url
+#0.0.0.0 edgewelcomecdn.microsoft.com                   # welcome url
+0.0.0.0 microsoftedgewelcome.microsoft.com              # welcome url
+0.0.0.0 pixel.advertising.com
+0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
+0.0.0.0 in.appcenter.ms
+0.0.0.0 ads.betweendigital.com
+0.0.0.0 b.clarity.ms
+0.0.0.0 c.clarity.ms
+0.0.0.0 www.clarity.ms
+0.0.0.0 e1.emxdgt.com
+0.0.0.0 eb2.3lift.com
+0.0.0.0 browser.events.data.microsoft.com
+#0.0.0.0 edge.microsoft.com                             # theme, extension install
+#0.0.0.0 fe2.update.microsoft.com                       # windows update
+#0.0.0.0 fe3.delivery.mp.microsoft.com                  # windows update
+0.0.0.0 microsoftedgetips.microsoft.com
+#0.0.0.0 msedge.api.cdp.microsoft.com                   # update check
+0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 target.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 odr.mookie1.com
+0.0.0.0 api.msn.com
+0.0.0.0 arc.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 c.msn.com
+#0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
+0.0.0.0 srtb.msn.com
+0.0.0.0 deff.nelreports.net
+0.0.0.0 config.edge.skype.com
+0.0.0.0 tp2.beap.gemini.yahoo.com
+0.0.0.0 mwzeom.zeotap.com
+#
 # Firefox
 #
 0.0.0.0 aus5.mozilla.org
 0.0.0.0 fhr.cdn.mozilla.net
-#0.0.0.0 redirector.gvt1.com #widevine plugin, chrome plugin update url & chrome spell check dictionary download url
+#0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
 0.0.0.0 snippets.mozilla.com
 0.0.0.0 self-repair.mozilla.org
 0.0.0.0 safebrowsing.google.com
@@ -781,7 +823,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 deloplen.com
 0.0.0.0 analyticsservice.buzz
 #
-# Block aircel redirects
+# block aircel redirects
 #
 0.0.0.0 ads.adamoads.com
 0.0.0.0 be22-1639-1207-38d5.reporo.net
@@ -894,7 +936,7 @@ ff02::3 ip6-allhosts
 #
 # windows tracking block END
 #
-# Block pictures in ad START
+# block media in ads START
 #
 0.0.0.0 d10lumateci472.cloudfront.net
 #0.0.0.0 d1u4oo4rb13yy8.cloudfront.net
@@ -988,6 +1030,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clotezar.com
 0.0.0.0 cloudimagesa.com
 0.0.0.0 cdn.cloudimagesb.com
+0.0.0.0 cdn.cloudfrale.com
 0.0.0.0 cdn.cluodlfare.com
 0.0.0.0 airfoil-assets.condenastdigital.com
 #0.0.0.0 ads2.contentabc.com
@@ -1193,7 +1236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d13.zedo.com
 0.0.0.0 images2.zemanta.com
 #
-# Block pictures in ad END
+# block media in ads END
 #
 # from A94 hosts START
 #
