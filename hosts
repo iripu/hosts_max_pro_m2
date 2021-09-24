@@ -662,9 +662,6 @@ ff02::3 ip6-allhosts
 #
 # Edge browser
 #
-#0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net    # welcome url
-#0.0.0.0 mem.gfx.ms                                     # welcome url
-#0.0.0.0 edgewelcomecdn.microsoft.com                   # welcome url
 0.0.0.0 microsoftedgewelcome.microsoft.com              # welcome url
 0.0.0.0 pixel.advertising.com
 0.0.0.0 img-s-msn-com.akamaized.net
