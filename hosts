@@ -685,10 +685,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 odr.mookie1.com
 0.0.0.0 api.msn.com
 0.0.0.0 arc.msn.com
-0.0.0.0 assets.msn.com
+0.0.0.0 assets.msn.com                                  # startpage
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 c.msn.com
-#0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
+0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
 0.0.0.0 srtb.msn.com
 0.0.0.0 deff.nelreports.net
 0.0.0.0 config.edge.skype.com
@@ -789,6 +789,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 images.wondershare.com
 0.0.0.0 my.wondershare.com
 #
+# Ccleaner
+#
+0.0.0.0 ncc.avast.com
+0.0.0.0 www.ccleaner.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 license.piriform.com
+0.0.0.0 ipmcdn.avast.com
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 healthcheck.ccleaner.com
+0.0.0.0 download.ccleaner.com
+0.0.0.0 verify.ccleaner.com
+0.0.0.0 softwareupdatechecker.live-everest-media.net
+#
 # Other softwares
 #
 0.0.0.0 ipm.avira.com
@@ -806,7 +821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 store.kobobooks.com
 0.0.0.0 reg.wisecleaner.com
 0.0.0.0 www.wisecleaner.net
-0.0.0.0 www.wisecleaner.com
+#0.0.0.0 www.wisecleaner.com
 0.0.0.0 adeactivate.adobe.com
 0.0.0.0 icecreamapps.com
 0.0.0.0 updates.icecreamapps.com
