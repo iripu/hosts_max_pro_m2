@@ -665,9 +665,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 microsoftedgewelcome.microsoft.com              # welcome url
 0.0.0.0 pixel.advertising.com
 0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
 0.0.0.0 in.appcenter.ms
 0.0.0.0 ads.betweendigital.com
+#0.0.0.0 r.bing.com                                     # bing image stops working
 0.0.0.0 b.clarity.ms
 0.0.0.0 c.clarity.ms
 0.0.0.0 www.clarity.ms
@@ -688,7 +690,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets.msn.com                                  # startpage
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 c.msn.com
-0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
+#0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
 0.0.0.0 srtb.msn.com
 0.0.0.0 deff.nelreports.net
 0.0.0.0 config.edge.skype.com
@@ -1163,6 +1165,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.realsrv.com
 0.0.0.0 static.realtime-bid.com
 0.0.0.0 xml.realtime-bid.com
+0.0.0.0 images.revcontent.com
 0.0.0.0 img.revcontent.com
 0.0.0.0 labs-cdn.revcontent.com
 0.0.0.0 img.rtbsystem.org
