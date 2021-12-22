@@ -605,6 +605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kiuprocessary.club                              # ad notif rhs
 0.0.0.0 luckypushh.com
 #0.0.0.0 lyhandredsa.club                               # ad notif rhs
+0.0.0.0 propu.sh
 0.0.0.0 pushnest.com
 0.0.0.0 pushrase.com
 0.0.0.0 reculdrothense.info
@@ -664,7 +665,7 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 microsoftedgewelcome.microsoft.com              # welcome url
 0.0.0.0 pixel.advertising.com
-0.0.0.0 img-s-msn-com.akamaized.net
+#0.0.0.0 img-s-msn-com.akamaized.net                    # msn news image
 0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
 0.0.0.0 in.appcenter.ms
@@ -690,7 +691,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets.msn.com                                  # startpage
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 c.msn.com
-#0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
+0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
 0.0.0.0 srtb.msn.com
 0.0.0.0 deff.nelreports.net
 0.0.0.0 config.edge.skype.com
@@ -996,6 +997,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 ocdn.adsterra.com
 0.0.0.0 aka-cdn-ns.adtech.de
+0.0.0.0 static.adtelligent.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 cluster.adultadworld.com
@@ -1093,6 +1095,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.imglnke.com
 0.0.0.0 i.imstks.com
 0.0.0.0 resources.infolinks.com
+0.0.0.0 interstitial-07.com
 0.0.0.0 cdn.insigit.com
 0.0.0.0 beta.intnotif.club
 0.0.0.0 ngp1.intnotif.club
@@ -1202,6 +1205,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn.teamskeetimages.com
 0.0.0.0 teutorigos-cat.com
+0.0.0.0 cdnmedia.tfosrv.com
 0.0.0.0 cdn11.tgbvfr.website
 0.0.0.0 ws.tgbvfr.website
 0.0.0.0 cdn-images.thinktarget.us
@@ -1230,7 +1234,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ts-ads.ru
 0.0.0.0 tsyndicate.com
 0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 lcdn.tsyndicate.com
 0.0.0.0 vcdn.tsyndicate.com
+0.0.0.0 tn.tubepornclassic.com
 0.0.0.0 cdn81.turkakisi.tv
 0.0.0.0 ubercpm.com
 0.0.0.0 img.ucweb.com
