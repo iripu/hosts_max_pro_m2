@@ -27,6 +27,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 call.chatra.io
 0.0.0.0 chat.chatra.io
 0.0.0.0 uc.chatra.io
+0.0.0.0 assets-land-ht.contentdef.com                   # brzzers banner
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 vid.dnaindia.com
 0.0.0.0 www.europacasino.com
@@ -69,7 +70,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 widget.intercom.io
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 ip-api.com
-0.0.0.0 www.linkedin.com
+#0.0.0.0 www.linkedin.com
 0.0.0.0 gj.mmstat.com                                   # alibaba tracking
 0.0.0.0 perf.mmstat.com
 0.0.0.0 cmap.alibaba.com
@@ -88,6 +89,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 pocket-image-cache.com
 #0.0.0.0 c1.popads.net
 #0.0.0.0 c2.popads.net
+0.0.0.0 cdn.privacy-mgmt.com                            # cookie banner
 0.0.0.0 img.readitlater.com
 0.0.0.0 alb.reddit.com
 #0.0.0.0 np.reddit.com
@@ -588,8 +590,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
 0.0.0.0 d3ou4areduq72f.cloudfront.net                   # ad notif middle
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
-0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
+0.0.0.0 dmmzkfd82wayn.cloudfront.net                    # ad notif rhs
+0.0.0.0 ds88pc0kw6cvc.cloudfront.net
+0.0.0.0 dw55pg05c2rl5.cloudfront.net                    # ad notif rhs
 0.0.0.0 acalatthen.fun                                  # ad notif rhs
 0.0.0.0 arrarcontentdelivery.info
 0.0.0.0 astancerta.fun
@@ -620,6 +624,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wronwaskinthetron.pro                           # blocks click, disables scroll
 #0.0.0.0 xtensotherec.club                              # main
 0.0.0.0 cdn.yourwebbars.com                             # ad notif rhs
+0.0.0.0 yqmxfz.com                                      # ad notif rhs
 #
 # malware
 #
@@ -688,10 +693,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 odr.mookie1.com
 0.0.0.0 api.msn.com
 0.0.0.0 arc.msn.com
-0.0.0.0 assets.msn.com                                  # startpage
+0.0.0.0 assets.msn.com                                  # new tab page contents
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 c.msn.com
-0.0.0.0 ntp.msn.com                                    # to disable blue bg on new tab page
+0.0.0.0 ntp.msn.com                                     # new tab page initial connection
 0.0.0.0 srtb.msn.com
 0.0.0.0 deff.nelreports.net
 0.0.0.0 config.edge.skype.com
@@ -1019,6 +1024,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.appier.net
 0.0.0.0 i.atadserver.com
 0.0.0.0 static.avgle.com
+0.0.0.0 galleryn0.awemdia.com
 0.0.0.0 data.bambergerkennanchitinous.com
 0.0.0.0 banesnorttat.cam
 0.0.0.0 i.bangassets.com
@@ -1087,6 +1093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 player.h-cdn.com
 0.0.0.0 www.hbd-cm.com
 0.0.0.0 x4i6u4n6.ssl.hwcdn.net
+0.0.0.0 icotrack.net
 0.0.0.0 ideliv.net
 0.0.0.0 idelv.net
 0.0.0.0 imglnkd.com
@@ -1156,6 +1163,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 owpawuk.ru
 0.0.0.0 static.pdn-1.com
 #0.0.0.0 pickytime.com
+0.0.0.0 traffic.pinklabel.com
 0.0.0.0 pixxur.com
 0.0.0.0 www.plaba.site
 0.0.0.0 live.primis.tech
@@ -1244,6 +1252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.vcommission.com
 0.0.0.0 static-02.veve.com
 0.0.0.0 www.vidads.in
+0.0.0.0 s.viimcu.com
 0.0.0.0 optimized-by.vitalads.net
 0.0.0.0 creative.vrtzads.com
 0.0.0.0 view.vzaar.com
@@ -1256,6 +1265,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c13.zedo.com
 0.0.0.0 d13.zedo.com
 0.0.0.0 images2.zemanta.com
+0.0.0.0 cdn.zuuvi.com
 #
 # block media in ads END
 #
