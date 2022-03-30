@@ -97,6 +97,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 meo.speedvid.net
 0.0.0.0 palemoon.start.me
 0.0.0.0 use.typekit.net
+0.0.0.0 s.udkcrj.com                                    # reddit tracking
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 phonograph2.voxmedia.com
@@ -199,6 +200,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 s.cpx.to
 0.0.0.0 script.crazyegg.com
+0.0.0.0 bidder.criteo.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 static.criteo.net
@@ -361,8 +363,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 pippio.com
 0.0.0.0 pixel.watch
 0.0.0.0 a.postrelease.com
+0.0.0.0 prebid-server.pubgalaxy.com
 0.0.0.0 tracking.publicidees.com
 0.0.0.0 aktrack.pubmatic.com
+0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 p.pxl2015x1.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 rules.quantcount.com
@@ -375,6 +379,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 a.rfihub.com
 0.0.0.0 c1.rfihub.net
+0.0.0.0 sync.richaudience.com
 0.0.0.0 ritogaga.com
 0.0.0.0 ei.rlcdn.com
 0.0.0.0 idsync.rlcdn.com
@@ -475,6 +480,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.wp.com
 0.0.0.0 in.wzrkt.com
 0.0.0.0 tracker.x-plarium.com
+0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -524,7 +530,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ps.eyeota.net
 0.0.0.0 www35.glam.com
 0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com
+#0.0.0.0 www.googletagservices.com                      # to enable ads on intercelestial.com
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
 0.0.0.0 bbcdn-tag.ibillboard.com
 0.0.0.0 srv.imonomy.com
@@ -588,18 +594,19 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
 0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
-0.0.0.0 d3ou4areduq72f.cloudfront.net                   # ad notif middle
+0.0.0.0 d3ou4areduq72f.cloudfront.net                   # ad notif centre
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 dmmzkfd82wayn.cloudfront.net                    # ad notif rhs
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dw55pg05c2rl5.cloudfront.net                    # ad notif rhs
 0.0.0.0 acalatthen.fun                                  # ad notif rhs
+0.0.0.0 albercascorse.com
 0.0.0.0 arrarcontentdelivery.info
 0.0.0.0 astancerta.fun
 0.0.0.0 celiberald.xyz                                  # ad notif rhs
 #0.0.0.0 doctoconve.club
-0.0.0.0 eggsosgum.site                                  # click notif middle
+0.0.0.0 eggsosgum.site                                  # click notif centre
 0.0.0.0 emanpro.fun                                     # ad notif rhs
 0.0.0.0 forlumineoner.com
 0.0.0.0 fortsexpres.club                                # ad notif rhs
@@ -608,7 +615,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.itphanpytor.club
 0.0.0.0 kiuprocessary.club                              # ad notif rhs
 0.0.0.0 luckypushh.com
+0.0.0.0 luublimaluulo.com                               # ad notif centre
 #0.0.0.0 lyhandredsa.club                               # ad notif rhs
+0.0.0.0 montikolti.com                                  # ad notif rhs
 0.0.0.0 propu.sh
 0.0.0.0 pushnest.com
 0.0.0.0 pushrase.com
@@ -990,6 +999,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.oas-c18.adnxs.com
 #0.0.0.0 vcdn.adnxs.com
 0.0.0.0 myao.adocean.pl
+0.0.0.0 s.adoppop.com
 0.0.0.0 94982c5b634975e50103ce96082d2827.adsk2.co
 0.0.0.0 ee8f928b71ed0dc6033231fa0943d9f5.adsk2.co
 0.0.0.0 admtpmp127.adsk2.co
@@ -1031,6 +1041,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allegro-allegro.bannerflow.com
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 c.bebi.com
+0.0.0.0 bepiletussar.casa
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 source.bidgear.com
 0.0.0.0 mh.bit-bork-boodle.com
@@ -1065,6 +1076,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn3.cpmstar.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 cdn.creativesumo.com
+0.0.0.0 pix.as.criteo.net
 0.0.0.0 crrepo.com
 0.0.0.0 c.d1272serve.xyz
 0.0.0.0 video.dailymail.co.uk
@@ -1179,12 +1191,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 images.revcontent.com
 0.0.0.0 img.revcontent.com
 0.0.0.0 labs-cdn.revcontent.com
+0.0.0.0 eu.rollmeout.xyz
 0.0.0.0 img.rtbsystem.org
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cdn.sb-inv1.com
+0.0.0.0 cdn.sb4you1.com
 0.0.0.0 production.selectmedia.asia
 0.0.0.0 storage.selectmedia.asia
 0.0.0.0 ds.serving-sys.com
@@ -1257,6 +1271,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 creative.vrtzads.com
 0.0.0.0 view.vzaar.com
 0.0.0.0 watchmoviesfree.tv
+0.0.0.0 static.win-bidding.com
 0.0.0.0 i.wmgtr.com
 #0.0.0.0 cdn.wwwpromoter.com
 0.0.0.0 cdn.x1cdn.com
