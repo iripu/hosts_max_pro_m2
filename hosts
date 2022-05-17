@@ -600,11 +600,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmmzkfd82wayn.cloudfront.net                    # ad notif rhs
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dw55pg05c2rl5.cloudfront.net                    # ad notif rhs
+0.0.0.0 a80b9802f4.1aed915a81.com                       # ad notif rhs bottom
+0.0.0.0 dab23ae107.466b3b8e1d.com                       # ad notif rhs bottom
+0.0.0.0 db56b114e7.91745b2bc3.com                       # ad notif rhs bottom
 0.0.0.0 acalatthen.fun                                  # ad notif rhs
 0.0.0.0 albercascorse.com
 0.0.0.0 arrarcontentdelivery.info
 0.0.0.0 astancerta.fun
 0.0.0.0 celiberald.xyz                                  # ad notif rhs
+0.0.0.0 convertsial.com                                 # ad notif rhs
 #0.0.0.0 doctoconve.club
 0.0.0.0 eggsosgum.site                                  # click notif centre
 0.0.0.0 emanpro.fun                                     # ad notif rhs
@@ -618,6 +622,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 luublimaluulo.com                               # ad notif centre
 #0.0.0.0 lyhandredsa.club                               # ad notif rhs
 0.0.0.0 montikolti.com                                  # ad notif rhs
+0.0.0.0 ntvpforever.com                                 # ad notif rhs bottom
 0.0.0.0 propu.sh
 0.0.0.0 pushnest.com
 0.0.0.0 pushrase.com
@@ -630,6 +635,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 varielcontentdelivery.info
 0.0.0.0 webcontentdelivery.info
 0.0.0.0 webpinp.com                                     # ad notif rhs
+0.0.0.0 js.wpshsdk.com
 0.0.0.0 wronwaskinthetron.pro                           # blocks click, disables scroll
 #0.0.0.0 xtensotherec.club                              # main
 0.0.0.0 cdn.yourwebbars.com                             # ad notif rhs
@@ -792,6 +798,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 crlog-crcn.adobe.com
 0.0.0.0 rushinfo.adobe.com
 #
+# Adobe Acrobat
+#
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 lm-prd-da1.licenses.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 activate.wip4.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 practivate-da1.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 uds.licenses.adobe.com
+0.0.0.0 licenses.adobe.com
+0.0.0.0 license.adobe.com
+0.0.0.0 helpexamples.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+#
 # Filmora9
 #
 0.0.0.0 support.wondershare.net
@@ -810,16 +841,26 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 ncc.avast.com
 0.0.0.0 www.ccleaner.com
-0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com #
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 license.piriform.com
 0.0.0.0 ipmcdn.avast.com
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 healthcheck.ccleaner.com
-0.0.0.0 download.ccleaner.com
-0.0.0.0 verify.ccleaner.com
-0.0.0.0 softwareupdatechecker.live-everest-media.net
+0.0.0.0 healthcheck.ccleaner.com #
+0.0.0.0 download.ccleaner.com #
+0.0.0.0 verify.ccleaner.com #
+0.0.0.0 softwareupdatechecker.live-everest-media.net #
+0.0.0.0 ccleaner.piriform.com
+0.0.0.0 defraggler.piriform.com
+0.0.0.0 license-api.ccleaner.com
+0.0.0.0 recuva.piriform.com
+0.0.0.0 speccy.piriform.com
+0.0.0.0 www.ccleaner.piriform.com
+0.0.0.0 www.defraggler.piriform.com
+0.0.0.0 www.license.piriform.com
+0.0.0.0 www.recuva.piriform.com
+0.0.0.0 www.speccy.piriform.com
 #
 # Other softwares
 #
@@ -1048,6 +1089,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 blacraft.com
 0.0.0.0 www.blablacar.in
 0.0.0.0 cdn.bncloudfl.com
+0.0.0.0 static.bookmsg.com
 0.0.0.0 console.brax-cdn.com
 0.0.0.0 account.bulletprofit.com
 0.0.0.0 cloud.cashtrafic.info
@@ -1151,6 +1193,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imggprx.mgid.com
 0.0.0.0 s-img.mgid.com
 #0.0.0.0 images.mid-day.com
+0.0.0.0 cdn3.mndsrv.com
 0.0.0.0 p232207.mycdn.co
 0.0.0.0 p3024.mycdn.co
 0.0.0.0 myfastcdn.com
@@ -1192,6 +1235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.revcontent.com
 0.0.0.0 labs-cdn.revcontent.com
 0.0.0.0 eu.rollmeout.xyz
+0.0.0.0 rtbbnr.com
 0.0.0.0 img.rtbsystem.org
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
