@@ -1,6 +1,50 @@
+0.0.0.0 gcdn.2mdn.net
 #
-# start custom lines
+# click popups
 #
+0.0.0.0 d2ers4gi7coxau.cloudfront.net   #1337x
+0.0.0.0 dcai7bdiz5toz.cloudfront.net    #1337x
+#0.0.0.0 precessfetidly.com      #pahe.li
+#0.0.0.0 dd.volowwoidre.com      #bolly4u.onl
+#0.0.0.0 kz.cateredjapish.com    #bolly4u.onl
+0.0.0.0 2jhawjda22.monster      #mega4up.org
+0.0.0.0 dooloust.net    #mega4up.org
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+#
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -592,54 +636,55 @@ ff02::3 ip6-allhosts
 #
 # shows fake notification
 #
-0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
-0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
-0.0.0.0 d3ou4areduq72f.cloudfront.net                   # ad notif centre
-0.0.0.0 d7dza8s7j2am6.cloudfront.net
-0.0.0.0 djv99sxoqpv11.cloudfront.net
-0.0.0.0 dmmzkfd82wayn.cloudfront.net                    # ad notif rhs
-0.0.0.0 ds88pc0kw6cvc.cloudfront.net
-0.0.0.0 dw55pg05c2rl5.cloudfront.net                    # ad notif rhs
-0.0.0.0 a80b9802f4.1aed915a81.com                       # ad notif rhs bottom
-0.0.0.0 dab23ae107.466b3b8e1d.com                       # ad notif rhs bottom
-0.0.0.0 db56b114e7.91745b2bc3.com                       # ad notif rhs bottom
-0.0.0.0 acalatthen.fun                                  # ad notif rhs
-0.0.0.0 albercascorse.com
-0.0.0.0 arrarcontentdelivery.info
-0.0.0.0 astancerta.fun
-0.0.0.0 celiberald.xyz                                  # ad notif rhs
-0.0.0.0 convertsial.com                                 # ad notif rhs
-#0.0.0.0 doctoconve.club
-0.0.0.0 eggsosgum.site                                  # click notif centre
-0.0.0.0 emanpro.fun                                     # ad notif rhs
-0.0.0.0 forlumineoner.com
-0.0.0.0 fortsexpres.club                                # ad notif rhs
-0.0.0.0 geverythingr.biz                                # ad notif rhs
-0.0.0.0 inewcontentdelivery.info
-0.0.0.0 cdn.itphanpytor.club
-0.0.0.0 kiuprocessary.club                              # ad notif rhs
-0.0.0.0 luckypushh.com
-0.0.0.0 luublimaluulo.com                               # ad notif centre
-#0.0.0.0 lyhandredsa.club                               # ad notif rhs
-0.0.0.0 montikolti.com                                  # ad notif rhs
-0.0.0.0 ntvpforever.com                                 # ad notif rhs bottom
-0.0.0.0 propu.sh
-0.0.0.0 pushnest.com
-0.0.0.0 pushrase.com
-0.0.0.0 reculdrothense.info
-#0.0.0.0 ricyeventur.club
-0.0.0.0 sehoweve.fun
-0.0.0.0 tofretonlepa.info
-0.0.0.0 t0gkj99krb24.com                                # ad notif rhs
-0.0.0.0 uwoaptee.com
-0.0.0.0 varielcontentdelivery.info
-0.0.0.0 webcontentdelivery.info
-0.0.0.0 webpinp.com                                     # ad notif rhs
-0.0.0.0 js.wpshsdk.com
+#0.0.0.0 d1nnhbi4g0kj5.cloudfront.net
+#0.0.0.0 d3dq1nh1l1pzqy.cloudfront.net
+#0.0.0.0 d3ou4areduq72f.cloudfront.net                   # ad notif centre
+#0.0.0.0 d7dza8s7j2am6.cloudfront.net
+#0.0.0.0 djv99sxoqpv11.cloudfront.net
+#0.0.0.0 dmmzkfd82wayn.cloudfront.net                    # ad notif rhs
+#0.0.0.0 ds88pc0kw6cvc.cloudfront.net
+#0.0.0.0 dw55pg05c2rl5.cloudfront.net                    # ad notif rhs
+#0.0.0.0 a80b9802f4.1aed915a81.com                       # ad notif rhs bottom
+#0.0.0.0 dab23ae107.466b3b8e1d.com                       # ad notif rhs bottom
+#0.0.0.0 db56b114e7.91745b2bc3.com                       # ad notif rhs bottom
+#0.0.0.0 acalatthen.fun                                  # ad notif rhs
+#0.0.0.0 albercascorse.com
+#0.0.0.0 arrarcontentdelivery.info
+#0.0.0.0 astancerta.fun
+#0.0.0.0 bustlemiszone.com                               # ad notif rhs
+#0.0.0.0 celiberald.xyz                                  # ad notif rhs
+#0.0.0.0 convertsial.com                                 # ad notif rhs
+##0.0.0.0 doctoconve.club
+#0.0.0.0 eggsosgum.site                                  # click notif centre
+#0.0.0.0 emanpro.fun                                     # ad notif rhs
+#0.0.0.0 forlumineoner.com
+#0.0.0.0 fortsexpres.club                                # ad notif rhs
+#0.0.0.0 geverythingr.biz                                # ad notif rhs
+#0.0.0.0 inewcontentdelivery.info
+#0.0.0.0 cdn.itphanpytor.club
+#0.0.0.0 kiuprocessary.club                              # ad notif rhs
+#0.0.0.0 luckypushh.com
+#0.0.0.0 luublimaluulo.com                               # ad notif centre
+##0.0.0.0 lyhandredsa.club                               # ad notif rhs
+#0.0.0.0 montikolti.com                                  # ad notif rhs
+#0.0.0.0 ntvpforever.com                                 # ad notif rhs bottom
+#0.0.0.0 propu.sh
+#0.0.0.0 pushnest.com
+#0.0.0.0 pushrase.com
+#0.0.0.0 reculdrothense.info
+##0.0.0.0 ricyeventur.club
+#0.0.0.0 sehoweve.fun
+#0.0.0.0 tofretonlepa.info
+#0.0.0.0 t0gkj99krb24.com                                # ad notif rhs
+#0.0.0.0 uwoaptee.com
+#0.0.0.0 varielcontentdelivery.info
+#0.0.0.0 webcontentdelivery.info
+#0.0.0.0 webpinp.com                                     # ad notif rhs
+#0.0.0.0 js.wpshsdk.com
 0.0.0.0 wronwaskinthetron.pro                           # blocks click, disables scroll
-#0.0.0.0 xtensotherec.club                              # main
-0.0.0.0 cdn.yourwebbars.com                             # ad notif rhs
-0.0.0.0 yqmxfz.com                                      # ad notif rhs
+##0.0.0.0 xtensotherec.club                              # main
+#0.0.0.0 cdn.yourwebbars.com                             # ad notif rhs
+#0.0.0.0 yqmxfz.com                                      # ad notif rhs
 #
 # malware
 #
@@ -1014,6 +1059,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
 #0.0.0.0 dp8hsntg6do36.cloudfront.net
+0.0.0.0 dskwugy0u6y9l.cloudfront.net
 #0.0.0.0 s0.2mdn.net
 #0.0.0.0 s1.2mdn.net
 0.0.0.0 91effa509f8f15a.com
@@ -1023,7 +1069,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.abcsrv1.com
 0.0.0.0 achilles-ena.com
 0.0.0.0 s3t3d2y7.ackcdn.net
+0.0.0.0 s3t3d2y8.ackcdn.net
 0.0.0.0 u3y8v8u3.ackcdn.net
+0.0.0.0 u3y8v8u4.ackcdn.net
 0.0.0.0 cdn15.acloudimages.com
 0.0.0.0 cdn15a.acloudimages.com
 0.0.0.0 cdn2.ad-center.com
@@ -1076,6 +1124,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.atadserver.com
 0.0.0.0 static.avgle.com
 0.0.0.0 galleryn0.awemdia.com
+0.0.0.0 amd-cdn-1.awsindstream.com
 0.0.0.0 data.bambergerkennanchitinous.com
 0.0.0.0 banesnorttat.cam
 0.0.0.0 i.bangassets.com
@@ -1083,6 +1132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 c.bebi.com
 0.0.0.0 bepiletussar.casa
+#0.0.0.0 static.bepolite.eu
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 source.bidgear.com
 0.0.0.0 mh.bit-bork-boodle.com
@@ -1140,6 +1190,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.gamesrevenue.com
 #0.0.0.0 www.gannett-cdn.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 ade.googlesyndication.com
 #0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 static.groovinads.com
 0.0.0.0 thumby.grvcdn.com
@@ -1319,7 +1370,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.wmgtr.com
 #0.0.0.0 cdn.wwwpromoter.com
 0.0.0.0 cdn.x1cdn.com
+0.0.0.0 video.xlviirdr.com
 #0.0.0.0 ads.yahoo.com
+0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 show.yeabble.com
 0.0.0.0 c13.zedo.com
 0.0.0.0 d13.zedo.com
