@@ -9,6 +9,9 @@
 #0.0.0.0 kz.cateredjapish.com    #bolly4u.onl
 0.0.0.0 2jhawjda22.monster      #mega4up.org
 0.0.0.0 dooloust.net    #mega4up.org
+0.0.0.0 tg1.aniview.com         #series9.la
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
@@ -868,19 +871,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 wwis-dubc1-vip60.adobe.com
 #
-# Filmora9
+# Filmora
 #
-0.0.0.0 support.wondershare.net
+#0.0.0.0 support.wondershare.net
 0.0.0.0 platform.wondershare.com
-0.0.0.0 api.wondershare.com
-0.0.0.0 account.wondershare.com
-0.0.0.0 useroperation.wondershare.com
-0.0.0.0 helper-stats.wondershare.com
+#0.0.0.0 api.wondershare.com
+#0.0.0.0 account.wondershare.com
+#0.0.0.0 useroperation.wondershare.com
+#0.0.0.0 helper-stats.wondershare.com
 0.0.0.0 cbs.wondershare.com
-0.0.0.0 pop.wondershare.com
-0.0.0.0 filmora.wondershare.com
-0.0.0.0 images.wondershare.com
-0.0.0.0 my.wondershare.com
+#0.0.0.0 pop.wondershare.com
+#0.0.0.0 filmora.wondershare.com
+#0.0.0.0 images.wondershare.com
+#0.0.0.0 my.wondershare.com
+0.0.0.0 www.cbs.wondershare.com
+0.0.0.0 www.wondershare.com
+0.0.0.0 activation.cyberlink.com
 #
 # Ccleaner
 #
@@ -1055,6 +1061,7 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 d10lumateci472.cloudfront.net
 #0.0.0.0 d1u4oo4rb13yy8.cloudfront.net
+0.0.0.0 d2er1uyk6qcknh.cloudfront.net   # or use curacaohaloing.website
 0.0.0.0 d2pc0q32fod0ha.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
@@ -1139,6 +1146,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 blacraft.com
 0.0.0.0 www.blablacar.in
 0.0.0.0 cdn.bncloudfl.com
+0.0.0.0 bonus365.site
 0.0.0.0 static.bookmsg.com
 0.0.0.0 console.brax-cdn.com
 0.0.0.0 account.bulletprofit.com
@@ -1201,14 +1209,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 icotrack.net
 0.0.0.0 ideliv.net
 0.0.0.0 idelv.net
+0.0.0.0 cl.imghosts.com
 0.0.0.0 imglnkd.com
 0.0.0.0 www.imglnkb.com
 0.0.0.0 www.imglnkd.com
 0.0.0.0 www.imglnke.com
 0.0.0.0 i.imstks.com
 0.0.0.0 resources.infolinks.com
-0.0.0.0 interstitial-07.com
 0.0.0.0 cdn.insigit.com
+0.0.0.0 interstitial-07.com
+0.0.0.0 interstitial-08.com
 0.0.0.0 beta.intnotif.club
 0.0.0.0 ngp1.intnotif.club
 0.0.0.0 ngp4.intnotif.club
@@ -1245,6 +1255,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-img.mgid.com
 #0.0.0.0 images.mid-day.com
 0.0.0.0 cdn3.mndsrv.com
+0.0.0.0 p231344.mycdn.co
 0.0.0.0 p232207.mycdn.co
 0.0.0.0 p3024.mycdn.co
 0.0.0.0 myfastcdn.com
@@ -1268,10 +1279,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 owpawuk.ru
 0.0.0.0 static.pdn-1.com
+0.0.0.0 ngp4.picinow.com
 #0.0.0.0 pickytime.com
 0.0.0.0 traffic.pinklabel.com
 0.0.0.0 pixxur.com
 0.0.0.0 www.plaba.site
+0.0.0.0 cdn.pncloudfl.com
 0.0.0.0 live.primis.tech
 0.0.0.0 prstatics.com
 0.0.0.0 static.ptoahaistais.com
@@ -1296,6 +1309,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.sb4you1.com
 0.0.0.0 production.selectmedia.asia
 0.0.0.0 storage.selectmedia.asia
+0.0.0.0 static.serve-servee.com
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure-msntest.serving-sys.com
@@ -1307,6 +1321,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.spolecznosci.net
 0.0.0.0 cdn.spoutable.com
 0.0.0.0 dn.srv1272.com
+0.0.0.0 www.ssaimg.com
 0.0.0.0 cdn-eu-vid1.statserv.net
 0.0.0.0 cdn.steepto.com
 0.0.0.0 imgg.steepto.com
@@ -1357,6 +1372,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn81.turkakisi.tv
 0.0.0.0 ubercpm.com
 0.0.0.0 img.ucweb.com
+0.0.0.0 uptorncouldn.website
 0.0.0.0 cdn.user-api.com
 0.0.0.0 media.vcommission.com
 0.0.0.0 static-02.veve.com
@@ -1372,7 +1388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.x1cdn.com
 0.0.0.0 video.xlviirdr.com
 #0.0.0.0 ads.yahoo.com
-0.0.0.0 avatars.mds.yandex.net
+#0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 show.yeabble.com
 0.0.0.0 c13.zedo.com
 0.0.0.0 d13.zedo.com
