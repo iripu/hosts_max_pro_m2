@@ -1,4 +1,8 @@
+#
+# start custom lines
+#
 0.0.0.0 gcdn.2mdn.net
+0.0.0.0 collenwhr.website
 #
 # click popups
 #
@@ -10,21 +14,6 @@
 0.0.0.0 2jhawjda22.monster      #mega4up.org
 0.0.0.0 dooloust.net    #mega4up.org
 0.0.0.0 tg1.aniview.com         #series9.la
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
 #
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
@@ -1117,6 +1106,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 files.advice.pl
 0.0.0.0 cdn.adx1.com
 0.0.0.0 static.adzerk.net
+0.0.0.0 s3t3d2y8.afcdn.net
 0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 ngs-vh.akamaihd.net
@@ -1126,9 +1116,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 b.am15.net
 0.0.0.0 player.aniview.com
 0.0.0.0 track1.aniview.com
+0.0.0.0 apathylahuli.website
 0.0.0.0 apearkcan.club
 0.0.0.0 ad.appier.net
 0.0.0.0 i.atadserver.com
+0.0.0.0 u3y8v8u4.aucdn.net
 0.0.0.0 static.avgle.com
 0.0.0.0 galleryn0.awemdia.com
 0.0.0.0 amd-cdn-1.awsindstream.com
@@ -1177,6 +1169,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 cdn.creativesumo.com
 0.0.0.0 pix.as.criteo.net
+0.0.0.0 pix.eu.criteo.net
 0.0.0.0 crrepo.com
 0.0.0.0 c.d1272serve.xyz
 0.0.0.0 video.dailymail.co.uk
@@ -1206,6 +1199,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 player.h-cdn.com
 0.0.0.0 www.hbd-cm.com
 0.0.0.0 x4i6u4n6.ssl.hwcdn.net
+0.0.0.0 iadoremakingpics.com
 0.0.0.0 icotrack.net
 0.0.0.0 ideliv.net
 0.0.0.0 idelv.net
@@ -1255,6 +1249,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-img.mgid.com
 #0.0.0.0 images.mid-day.com
 0.0.0.0 cdn3.mndsrv.com
+0.0.0.0 muzarabeponym.website
 0.0.0.0 p231344.mycdn.co
 0.0.0.0 p232207.mycdn.co
 0.0.0.0 p3024.mycdn.co
