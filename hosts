@@ -1490,28 +1490,28 @@ ff02::3 ip6-allhosts
 #
 # various football apps images
 #
-0.0.0.0 thumb.besoccer.com
-0.0.0.0 t.resfu.com
-0.0.0.0 thumb.resfu.com
-0.0.0.0 e0.365dm.com
-0.0.0.0 e1.365dm.com
-0.0.0.0 e2.365dm.com
-0.0.0.0 images.fotmob.com
-0.0.0.0 images.performgroup.com
-0.0.0.0 cdn.vidible.tv
-0.0.0.0 delivery.vidible.tv
-0.0.0.0 videos.vidible.tv
-0.0.0.0 images2.minutemediacdn.com
-0.0.0.0 a1.espncdn.com
-0.0.0.0 www.appyet.com
-0.0.0.0 images.onefootball.com
-0.0.0.0 image-service.onefootball.com
-0.0.0.0 oneftbl-cms.imgix.net
-0.0.0.0 a.espncdn.com
-0.0.0.0 static.goal.com
-0.0.0.0 i.dailymail.co.uk
-0.0.0.0 www.worldsoccer.com
-0.0.0.0 keyassets.timeincuk.net
+#0.0.0.0 thumb.besoccer.com
+#0.0.0.0 t.resfu.com
+#0.0.0.0 thumb.resfu.com
+#0.0.0.0 e0.365dm.com
+#0.0.0.0 e1.365dm.com
+#0.0.0.0 e2.365dm.com
+#0.0.0.0 images.fotmob.com
+#0.0.0.0 images.performgroup.com
+#0.0.0.0 cdn.vidible.tv
+#0.0.0.0 delivery.vidible.tv
+#0.0.0.0 videos.vidible.tv
+#0.0.0.0 images2.minutemediacdn.com
+#0.0.0.0 a1.espncdn.com
+#0.0.0.0 www.appyet.com
+#0.0.0.0 images.onefootball.com
+#0.0.0.0 image-service.onefootball.com
+#0.0.0.0 oneftbl-cms.imgix.net
+#0.0.0.0 a.espncdn.com
+#0.0.0.0 static.goal.com
+#0.0.0.0 i.dailymail.co.uk
+#0.0.0.0 www.worldsoccer.com
+#0.0.0.0 keyassets.timeincuk.net
 #
 # Temple Run 2
 #
