@@ -1185,6 +1185,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 static.fmpub.net
 0.0.0.0 api.freewebfonts.org
+0.0.0.0 f2.cdn.ftd.agency
 0.0.0.0 fwbntw.com
 0.0.0.0 img.gamedistribution.com
 0.0.0.0 gamesrevenu24.com
@@ -1381,6 +1382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.wmgtr.com
 #0.0.0.0 cdn.wwwpromoter.com
 0.0.0.0 cdn.x1cdn.com
+0.0.0.0 xbeat.info
 0.0.0.0 video.xlviirdr.com
 #0.0.0.0 ads.yahoo.com
 #0.0.0.0 avatars.mds.yandex.net
