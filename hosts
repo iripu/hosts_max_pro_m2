@@ -1,5 +1,6 @@
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 collenwhr.website
+0.0.0.0 evtubescms.phncdn.com (pre video ads)
 #
 # click popups
 #
@@ -11,6 +12,21 @@
 0.0.0.0 2jhawjda22.monster      #mega4up.org
 0.0.0.0 dooloust.net    #mega4up.org
 0.0.0.0 tg1.aniview.com         #series9.la
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 #
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
@@ -74,7 +90,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 5-edge-chat.facebook.com
 0.0.0.0 6-edge-chat.facebook.com
 0.0.0.0 scontent.fmaa1-2.fna.fbcdn.net
-#0.0.0.0 scontent.xx.fbcdn.net                          # whatsapp avatar creator
+0.0.0.0 scontent.xx.fbcdn.net                           # whatsapp avatar creator
 0.0.0.0 fbsbx.com
 0.0.0.0 ads.flipkart.com
 0.0.0.0 tracker.freecharge.in
@@ -1380,6 +1396,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 cdn.wwwpromoter.com
 0.0.0.0 cdn.x1cdn.com
 0.0.0.0 xbeat.info
+0.0.0.0 video.xlivrdr.com
 0.0.0.0 video.xlviirdr.com
 #0.0.0.0 ads.yahoo.com
 #0.0.0.0 avatars.mds.yandex.net
