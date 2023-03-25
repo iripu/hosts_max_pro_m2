@@ -1,32 +1,14 @@
-0.0.0.0 gcdn.2mdn.net
-0.0.0.0 collenwhr.website
-0.0.0.0 evtubescms.phncdn.com (pre video ads)
 #
 # click popups
 #
-0.0.0.0 d2ers4gi7coxau.cloudfront.net   #1337x
-0.0.0.0 dcai7bdiz5toz.cloudfront.net    #1337x
+#0.0.0.0 d2ers4gi7coxau.cloudfront.net   #1337x
+#0.0.0.0 dcai7bdiz5toz.cloudfront.net    #1337x
 #0.0.0.0 precessfetidly.com      #pahe.li
 #0.0.0.0 dd.volowwoidre.com      #bolly4u.onl
 #0.0.0.0 kz.cateredjapish.com    #bolly4u.onl
-0.0.0.0 2jhawjda22.monster      #mega4up.org
-0.0.0.0 dooloust.net    #mega4up.org
-0.0.0.0 tg1.aniview.com         #series9.la
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+#0.0.0.0 2jhawjda22.monster      #mega4up.org
+#0.0.0.0 dooloust.net    #mega4up.org
+#0.0.0.0 tg1.aniview.com         #series9.la
 #
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
@@ -767,21 +749,29 @@ ff02::3 ip6-allhosts
 0.0.0.0 config.edge.skype.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 cn.bing.com
+0.0.0.0 edge-conumer-static.azureedge.net
+0.0.0.0 nav-edge.smartscreen.microsoft.com
 #
 # Firefox
 #
 0.0.0.0 aus5.mozilla.org
+0.0.0.0 paste.mozilla.org                               # adding custom search engine sends info here according to an extension
 0.0.0.0 fhr.cdn.mozilla.net
 #0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
+#0.0.0.0 accounts.firefox.com
 0.0.0.0 snippets.mozilla.com
 0.0.0.0 self-repair.mozilla.org
 0.0.0.0 safebrowsing.google.com
+0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 detectportal.firefox.com
+0.0.0.0 push.services.mozilla.com
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 discovery.addons.mozilla.org
+0.0.0.0 contile.services.mozilla.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 addons-discovery.cdn.mozilla.net
@@ -1111,6 +1101,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ocdn.adsterra.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 static.adtelligent.com
+0.0.0.0 ht-cdn2.adtng.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 cluster.adultadworld.com
@@ -1140,6 +1131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.bambergerkennanchitinous.com
 0.0.0.0 banesnorttat.cam
 0.0.0.0 i.bangassets.com
+0.0.0.0 cdn.banhq.com
 0.0.0.0 allegro-allegro.bannerflow.com
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 c.bebi.com
@@ -1180,6 +1172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn2.cpmstar.com
 0.0.0.0 cdn3.cpmstar.com
 0.0.0.0 ssl.cdne.cpmstar.com
+0.0.0.0 cdn.creative-bars1.com
 0.0.0.0 cdn.creativesumo.com
 0.0.0.0 pix.as.criteo.net
 0.0.0.0 pix.eu.criteo.net
@@ -1233,6 +1226,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 media2.intoday.in
 0.0.0.0 www.irctctourism.com
 0.0.0.0 cdn2.irontekcrew.com
+0.0.0.0 cdn.itsup.com
 0.0.0.0 i.jads.co
 0.0.0.0 static.javhd.com
 0.0.0.0 assetscdn.jivox.com
@@ -1288,6 +1282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 owpawuk.ru
 0.0.0.0 static.pdn-1.com
+0.0.0.0 evtubescms.phncdn.com                           # phub pre video ads
 0.0.0.0 ngp4.picinow.com
 #0.0.0.0 pickytime.com
 0.0.0.0 traffic.pinklabel.com
