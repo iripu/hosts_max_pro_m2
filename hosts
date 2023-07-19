@@ -9,6 +9,21 @@
 #0.0.0.0 2jhawjda22.monster      #mega4up.org
 #0.0.0.0 dooloust.net    #mega4up.org
 #0.0.0.0 tg1.aniview.com         #series9.la
+0.0.0.0 in1.clevertap-prod.com                  #jiocinema
+0.0.0.0 pcjc4raopc205q6g64l9q6ete.litix.io      #jiocinema
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 #
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
@@ -106,6 +121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 perf.mmstat.com
 0.0.0.0 cmap.alibaba.com
 #0.0.0.0 vast.mtngt.com
+0.0.0.0 nanouwho.com                                    # creates overlay over stagatv.com
 0.0.0.0 electionsdata.ndtv.com
 0.0.0.0 social.ndtv.com
 0.0.0.0 static.social.ndtv.com
@@ -127,7 +143,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 old.reddit.com
 0.0.0.0 meo.speedvid.net
 0.0.0.0 palemoon.start.me
-0.0.0.0 use.typekit.net
+#0.0.0.0 use.typekit.net                                # ea.com stops working
 0.0.0.0 s.udkcrj.com                                    # reddit tracking
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 optimize-stats.voxmedia.com
@@ -256,6 +272,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 crosspixel-shopping.t.domdex.com
 0.0.0.0 ams-login.dotomi.com
 0.0.0.0 login.dotomi.com
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
@@ -299,10 +316,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
+0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 partner.googleadservices.com
 #0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 rp.gwallet.com
@@ -517,6 +537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 xhr.yallboen.com
 0.0.0.0 bs-metadsp.yandex.ru
 0.0.0.0 cdn.yldbt.com
@@ -676,34 +697,41 @@ ff02::3 ip6-allhosts
 # malware
 #
 0.0.0.0 ads.ad-center.com
+0.0.0.0 search.babylon.com
+0.0.0.0 www.bitshostworld.com
+0.0.0.0 edfol.bulkaapricot.com
+0.0.0.0 deluxeoffer.co
+0.0.0.0 directions-mapper.com
+0.0.0.0 easypcprotect.com
+0.0.0.0 email-access.co
+0.0.0.0 www.farmheadcity.com
+0.0.0.0 filesdownloader.one
+0.0.0.0 my.filesfetcher.com
+0.0.0.0 freefilesdownloads.wiki
+0.0.0.0 getlinksinaseconds.com
+0.0.0.0 ifilez.org
+0.0.0.0 in.static.india-rewards.com
+0.0.0.0 indom2.xyz
+0.0.0.0 www.lastworking4you.site
+0.0.0.0 mediawallbox.com
+0.0.0.0 js.mobileoffers-ep-download.com
+0.0.0.0 mobileoffers-fl-download.com
+0.0.0.0 www.myprivacyswitch.com
+0.0.0.0 officex.org
+0.0.0.0 www.packagetracer.com
+0.0.0.0 quickprivacycheck.com
+0.0.0.0 lp.securebrowser.com
+0.0.0.0 sharesuper.info
+0.0.0.0 clientn.super-mp3-download.com
+0.0.0.0 www.socialnewpages.com
+#0.0.0.0 tr2srtr.com
+0.0.0.0 get.trackerpackage.com
+0.0.0.0 www.viralnest.in
 0.0.0.0 cdneu.yasayasa.com
 0.0.0.0 cdnus.yasayasa.com
 0.0.0.0 info.yasayasa.com
 0.0.0.0 os.yasayasa.com
 0.0.0.0 rp.yasayasa.com
-0.0.0.0 deluxeoffer.co
-0.0.0.0 directions-mapper.com
-0.0.0.0 email-access.co
-0.0.0.0 get.trackerpackage.com
-0.0.0.0 getlinksinaseconds.com
-0.0.0.0 ifilez.org
-0.0.0.0 in.static.india-rewards.com
-0.0.0.0 lp.securebrowser.com
-0.0.0.0 my.filesfetcher.com
-0.0.0.0 officex.org
-0.0.0.0 quickprivacycheck.com
-0.0.0.0 sharesuper.info
-#0.0.0.0 tr2srtr.com
-0.0.0.0 mediawallbox.com
-0.0.0.0 search.babylon.com
-0.0.0.0 www.bitshostworld.com
-0.0.0.0 www.farmheadcity.com
-0.0.0.0 www.lastworking4you.site
-0.0.0.0 www.myprivacyswitch.com
-0.0.0.0 www.packagetracer.com
-0.0.0.0 www.socialnewpages.com
-0.0.0.0 www.viralnest.in
-0.0.0.0 clientn.super-mp3-download.com
 #
 # WMP album art downloading
 #
@@ -1125,6 +1153,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.appier.net
 0.0.0.0 i.atadserver.com
 0.0.0.0 u3y8v8u4.aucdn.net
+0.0.0.0 aumle.top
 0.0.0.0 static.avgle.com
 0.0.0.0 galleryn0.awemdia.com
 0.0.0.0 amd-cdn-1.awsindstream.com
@@ -1137,6 +1166,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.bebi.com
 0.0.0.0 bepiletussar.casa
 #0.0.0.0 static.bepolite.eu
+0.0.0.0 bergculpae.life
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 source.bidgear.com
 0.0.0.0 mh.bit-bork-boodle.com
@@ -1174,6 +1204,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 cdn.creative-bars1.com
 0.0.0.0 cdn.creativesumo.com
+0.0.0.0 imageproxy.as.criteo.net
 0.0.0.0 pix.as.criteo.net
 0.0.0.0 pix.eu.criteo.net
 0.0.0.0 crrepo.com
@@ -1197,14 +1228,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamesrevenu24.com
 0.0.0.0 cdn.gamesrevenue.com
 #0.0.0.0 www.gannett-cdn.com
+0.0.0.0 mts0.google.com                                 # map image in ads
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ade.googlesyndication.com
 #0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 static.groovinads.com
 0.0.0.0 thumby.grvcdn.com
+0.0.0.0 encrypted-tbn1.gstatic.com
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 player.h-cdn.com
 0.0.0.0 www.hbd-cm.com
+0.0.0.0 roomimg.stream.highwebmedia.com
 0.0.0.0 x4i6u4n6.ssl.hwcdn.net
 0.0.0.0 iadoremakingpics.com
 0.0.0.0 icotrack.net
@@ -1229,6 +1263,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.itsup.com
 0.0.0.0 i.jads.co
 0.0.0.0 static.javhd.com
+0.0.0.0 static.javhdhello.com
 0.0.0.0 assetscdn.jivox.com
 0.0.0.0 ads.juicyads.com
 0.0.0.0 ads-a.juicyads.com
@@ -1281,6 +1316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ora.tv
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 owpawuk.ru
+0.0.0.0 assets-7pb.pages.dev                            # dropgalaxy assets also
 0.0.0.0 static.pdn-1.com
 0.0.0.0 evtubescms.phncdn.com                           # phub pre video ads
 0.0.0.0 ngp4.picinow.com
@@ -1295,6 +1331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 main.pubexchange.com
 0.0.0.0 cdn.puffnetwork.com
 0.0.0.0 bvadimgs.scdn7.secure.raxcdn.com
+0.0.0.0 razzedwhimsic.website
 0.0.0.0 a.realsrv.com
 0.0.0.0 static.realsrv.com
 0.0.0.0 static.realtime-bid.com
@@ -1332,6 +1369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imgg-cdn.steepto.com
 0.0.0.0 s-img.steepto.com
 0.0.0.0 www.stickyday.com
+0.0.0.0 cdn.stripcash.com
 0.0.0.0 static.surfe.be
 0.0.0.0 tablebehav.club
 0.0.0.0 images.taboola.com
@@ -1441,6 +1479,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.jpush.cn
 0.0.0.0 bradeliade.com
 0.0.0.0 www.pdftron.com
+0.0.0.0 ad.a-ads.com
+0.0.0.0 adoto.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 services.vlitag.com
+0.0.0.0 assets.vlitag.com
 #
 #0.0.0.0 api.giphy.com
 0.0.0.0 api.tenor.com
