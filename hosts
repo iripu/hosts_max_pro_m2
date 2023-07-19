@@ -74,11 +74,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 chat.chatra.io
 0.0.0.0 uc.chatra.io
 0.0.0.0 assets-land-ht.contentdef.com                   # brzzers banner
-0.0.0.0 cdn.cookielaw.org
 0.0.0.0 vid.dnaindia.com
 0.0.0.0 www.europacasino.com
 0.0.0.0 ezimg.ch
-0.0.0.0 www.facebook.com
+#0.0.0.0 www.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 2-edge-chat.facebook.com
@@ -884,8 +883,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
 0.0.0.0 ereg.adobe.com
-0.0.0.0 activate.adobe.com
-0.0.0.0 na1r.services.adobe.com
 0.0.0.0 activate.wip3.adobe.com
 0.0.0.0 wip3.adobe.com
 0.0.0.0 ereg.wip3.adobe.com
