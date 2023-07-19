@@ -77,7 +77,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vid.dnaindia.com
 0.0.0.0 www.europacasino.com
 0.0.0.0 ezimg.ch
-#0.0.0.0 www.facebook.com
+0.0.0.0 www.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 2-edge-chat.facebook.com
