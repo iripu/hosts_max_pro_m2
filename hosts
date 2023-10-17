@@ -539,6 +539,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 xhr.yallboen.com
 0.0.0.0 bs-metadsp.yandex.ru
+0.0.0.0 mc.yandex.ru
 0.0.0.0 cdn.yldbt.com
 0.0.0.0 ehif.zedo.com
 0.0.0.0 m4.zedo.com
@@ -579,6 +580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.displayincloud.com
 0.0.0.0 static.exoclick.com
 0.0.0.0 ps.eyeota.net
+0.0.0.0 aditmedia.g2afse.com
 0.0.0.0 www35.glam.com
 0.0.0.0 www.googletagmanager.com
 #0.0.0.0 www.googletagservices.com                      # to enable ads on intercelestial.com
@@ -614,6 +616,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.tynt.com
 0.0.0.0 udmserve.net
 #0.0.0.0 wct.link
+0.0.0.0 youradexchange.com
 0.0.0.0 c1.zedo.com
 0.0.0.0 www.zergnet.com
 #
@@ -696,11 +699,14 @@ ff02::3 ip6-allhosts
 # malware
 #
 0.0.0.0 ads.ad-center.com
+0.0.0.0 downloadzhen.b-cdn.net
 0.0.0.0 search.babylon.com
 0.0.0.0 www.bitshostworld.com
 0.0.0.0 edfol.bulkaapricot.com
+0.0.0.0 cdn.cdnintl.buzz
 0.0.0.0 deluxeoffer.co
 0.0.0.0 directions-mapper.com
+0.0.0.0 doblo.inxyrocks.com
 0.0.0.0 easypcprotect.com
 0.0.0.0 email-access.co
 0.0.0.0 www.farmheadcity.com
@@ -708,9 +714,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 my.filesfetcher.com
 0.0.0.0 freefilesdownloads.wiki
 0.0.0.0 getlinksinaseconds.com
+0.0.0.0 confirm.hadglb7m3jcd.top
 0.0.0.0 ifilez.org
 0.0.0.0 in.static.india-rewards.com
 0.0.0.0 indom2.xyz
+0.0.0.0 intaban.top                                     # blocks clicks, fullscreen, ransomware
+0.0.0.0 hirusko.kurlaksy.com
+0.0.0.0 last-ask.monster
 0.0.0.0 www.lastworking4you.site
 0.0.0.0 mediawallbox.com
 0.0.0.0 js.mobileoffers-ep-download.com
@@ -799,7 +809,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 discovery.addons.mozilla.org
 0.0.0.0 contile.services.mozilla.com
-0.0.0.0 location.services.mozilla.com
+0.0.0.0 location.services.mozilla.com                   # secure dns prefilled entries do not exist when blocked
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 addons-discovery.cdn.mozilla.net
 0.0.0.0 tiles-cloudfront.cdn.mozilla.net
@@ -1129,6 +1139,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ht-cdn2.adtng.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 vz-cdn2.adtng.com
+0.0.0.0 cdn.adtrue.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 ylx-i.advertica-cdn2.com
 0.0.0.0 cdn.advertizingms.com
@@ -1136,6 +1147,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.adx1.com
 0.0.0.0 static.adzerk.net
 0.0.0.0 s3t3d2y8.afcdn.net
+0.0.0.0 agnoetecluster.uno
 0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 ngs-vh.akamaihd.net
@@ -1164,6 +1176,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bepiletussar.casa
 #0.0.0.0 static.bepolite.eu
 0.0.0.0 bergculpae.life
+0.0.0.0 cdn3.bestcontentsystem.top
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 source.bidgear.com
 0.0.0.0 mh.bit-bork-boodle.com
@@ -1175,6 +1188,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 console.brax-cdn.com
 0.0.0.0 account.bulletprofit.com
 0.0.0.0 cloud.cashtrafic.info
+0.0.0.0 pt.cdctwm.com
 0.0.0.0 img.cdn.house
 0.0.0.0 pads.cdnads.com
 #0.0.0.0 padsdel.cdnads.com
@@ -1249,6 +1263,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.imstks.com
 0.0.0.0 resources.infolinks.com
 0.0.0.0 cdn.insigit.com
+0.0.0.0 interbuzznews.com
 0.0.0.0 interstitial-07.com
 0.0.0.0 interstitial-08.com
 0.0.0.0 beta.intnotif.club
@@ -1289,6 +1304,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-img.mgid.com
 #0.0.0.0 images.mid-day.com
 0.0.0.0 cdn3.mndsrv.com
+0.0.0.0 icon.dt.mndsrv.com
 0.0.0.0 muzarabeponym.website
 0.0.0.0 p231344.mycdn.co
 0.0.0.0 p232207.mycdn.co
@@ -1312,6 +1328,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl-i.cdn.openx.com
 0.0.0.0 www.ora.tv
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 images.outbrainimg.com
 0.0.0.0 owpawuk.ru
 0.0.0.0 assets-7pb.pages.dev                            # dropgalaxy assets also
 0.0.0.0 static.pdn-1.com
@@ -1329,6 +1346,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.puffnetwork.com
 0.0.0.0 bvadimgs.scdn7.secure.raxcdn.com
 0.0.0.0 razzedwhimsic.website
+#0.0.0.0 www.re-thinkingthefuture.com
 0.0.0.0 a.realsrv.com
 0.0.0.0 static.realsrv.com
 0.0.0.0 static.realtime-bid.com
@@ -1413,9 +1431,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.ucweb.com
 0.0.0.0 uptorncouldn.website
 0.0.0.0 cdn.user-api.com
+0.0.0.0 galleryn0.vcmdiawe.com
+0.0.0.0 galleryn1.vcmdiawe.com
+0.0.0.0 galleryn2.vcmdiawe.com
+0.0.0.0 galleryn3.vcmdiawe.com
 0.0.0.0 media.vcommission.com
 0.0.0.0 static-02.veve.com
 0.0.0.0 www.vidads.in
+0.0.0.0 viewyentreat.guru
 0.0.0.0 s.viimcu.com
 0.0.0.0 optimized-by.vitalads.net
 0.0.0.0 creative.vrtzads.com
