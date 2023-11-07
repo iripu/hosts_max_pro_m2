@@ -109,6 +109,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 fonts.gstatic.com
 0.0.0.0 s.in.com
 0.0.0.0 vid.india.com
+0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 nexus-websocket-a.intercom.io
@@ -323,6 +324,8 @@ ff02::3 ip6-allhosts
 #0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 data.gosquared.com
+0.0.0.0 api.growthrx.in
+0.0.0.0 static.growthrx.in
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 rp.gwallet.com
 0.0.0.0 perr.h-cdn.com
@@ -795,7 +798,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aus5.mozilla.org
 0.0.0.0 paste.mozilla.org                               # adding custom search engine sends info here according to an extension
 0.0.0.0 fhr.cdn.mozilla.net
-#0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
+0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
 #0.0.0.0 accounts.firefox.com
 0.0.0.0 snippets.mozilla.com
 0.0.0.0 self-repair.mozilla.org
@@ -952,6 +955,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 fiddler2.com
 0.0.0.0 cdn3.opencandy.com
 0.0.0.0 stats.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 fpdownload.adobe.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 store.kobobooks.com
@@ -970,6 +976,11 @@ ff02::3 ip6-allhosts
 #0.0.0.0 rink.hockeyapp.net
 #0.0.0.0 deloplen.com
 0.0.0.0 analyticsservice.buzz
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 cyrosehd.page.link
+0.0.0.0 apps.liecengsui.xyz
+0.0.0.0 www.deviceinfo.app
+0.0.0.0 valid.x86.fr
 #
 # block aircel redirects
 #
@@ -1151,6 +1162,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbexternal-a.akamaihd.net
 0.0.0.0 ngs-vh.akamaihd.net
+0.0.0.0 slike-toi.akamaized.net
 0.0.0.0 vodibnlive-vh.akamaihd.net
 0.0.0.0 g01.a.alicdn.com
 0.0.0.0 cdn2.allirontek.com
@@ -1250,6 +1262,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 player.h-cdn.com
 0.0.0.0 www.hbd-cm.com
 0.0.0.0 roomimg.stream.highwebmedia.com
+0.0.0.0 streaming.humix.com
+0.0.0.0 video-meta.humix.com
 0.0.0.0 x4i6u4n6.ssl.hwcdn.net
 0.0.0.0 iadoremakingpics.com
 0.0.0.0 icotrack.net
@@ -1427,6 +1441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vcdn.tsyndicate.com
 0.0.0.0 tn.tubepornclassic.com
 0.0.0.0 cdn81.turkakisi.tv
+0.0.0.0 tvid.in
 0.0.0.0 ubercpm.com
 0.0.0.0 img.ucweb.com
 0.0.0.0 uptorncouldn.website
@@ -1436,6 +1451,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 galleryn2.vcmdiawe.com
 0.0.0.0 galleryn3.vcmdiawe.com
 0.0.0.0 media.vcommission.com
+0.0.0.0 analytics.vdo.ai
+0.0.0.0 h5.vdo.ai
 0.0.0.0 static-02.veve.com
 0.0.0.0 www.vidads.in
 0.0.0.0 viewyentreat.guru
@@ -1448,6 +1465,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.wmgtr.com
 #0.0.0.0 cdn.wwwpromoter.com
 0.0.0.0 cdn.x1cdn.com
+0.0.0.0 static-rtb2.xaprio.net
 0.0.0.0 xbeat.info
 0.0.0.0 video.xlivrdr.com
 0.0.0.0 video.xlviirdr.com
@@ -1839,6 +1857,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms4.applovin.com
 #
 0.0.0.0 a.admob.com
 0.0.0.0 ad.admob.com
