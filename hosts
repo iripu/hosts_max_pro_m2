@@ -77,7 +77,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vid.dnaindia.com
 0.0.0.0 www.europacasino.com
 0.0.0.0 ezimg.ch
-0.0.0.0 www.facebook.com
+#0.0.0.0 www.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 2-edge-chat.facebook.com
@@ -640,10 +640,12 @@ ff02::3 ip6-allhosts
 # redirects to window hijacking pages
 #
 #0.0.0.0 xml.explorads.com
+0.0.0.0 intaban.top                                     # blocks clicks, fullscreen, ransomware
 #0.0.0.0 oqwedcb9fsf.xyz
 0.0.0.0 win-help-alert.site                             # creates repeated popups
 0.0.0.0 eeq1s8pqpk.com
 0.0.0.0 liveappfree.cool
+0.0.0.0 qazwerty.space                                  # blocks clicks, fullscreen, ransomware
 0.0.0.0 securegate.xyz
 0.0.0.0 trkk4.com
 #
@@ -721,7 +723,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ifilez.org
 0.0.0.0 in.static.india-rewards.com
 0.0.0.0 indom2.xyz
-0.0.0.0 intaban.top                                     # blocks clicks, fullscreen, ransomware
 0.0.0.0 hirusko.kurlaksy.com
 0.0.0.0 last-ask.monster
 0.0.0.0 www.lastworking4you.site
@@ -955,9 +956,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fiddler2.com
 0.0.0.0 cdn3.opencandy.com
 0.0.0.0 stats.unity3d.com
-0.0.0.0 configv2.unityads.unity3d.com
-0.0.0.0 auction-load.unityads.unity3d.com
-0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 fpdownload.adobe.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 store.kobobooks.com
@@ -976,11 +974,6 @@ ff02::3 ip6-allhosts
 #0.0.0.0 rink.hockeyapp.net
 #0.0.0.0 deloplen.com
 0.0.0.0 analyticsservice.buzz
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 cyrosehd.page.link
-0.0.0.0 apps.liecengsui.xyz
-0.0.0.0 www.deviceinfo.app
-0.0.0.0 valid.x86.fr
 #
 # block aircel redirects
 #
@@ -1356,6 +1349,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 live.primis.tech
 0.0.0.0 prstatics.com
 0.0.0.0 static.ptoahaistais.com
+0.0.0.0 girls-fs-ind.pu707ev.com
 0.0.0.0 main.pubexchange.com
 0.0.0.0 cdn.puffnetwork.com
 0.0.0.0 bvadimgs.scdn7.secure.raxcdn.com
