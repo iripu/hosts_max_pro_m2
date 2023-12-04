@@ -88,6 +88,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 scontent.fmaa1-2.fna.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net                           # whatsapp avatar creator
 0.0.0.0 fbsbx.com
+0.0.0.0 filmygallery.dev
 0.0.0.0 ads.flipkart.com
 0.0.0.0 tracker.freecharge.in
 0.0.0.0 freegeoip.net
@@ -678,6 +679,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 inewcontentdelivery.info
 #0.0.0.0 cdn.itphanpytor.club
 #0.0.0.0 kiuprocessary.club                              # ad notif rhs
+#0.0.0.0 lh.limosiwooable.com                            # ad notif rhs
 #0.0.0.0 luckypushh.com
 #0.0.0.0 luublimaluulo.com                               # ad notif centre
 ##0.0.0.0 lyhandredsa.club                               # ad notif rhs
@@ -799,7 +801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aus5.mozilla.org
 0.0.0.0 paste.mozilla.org                               # adding custom search engine sends info here according to an extension
 0.0.0.0 fhr.cdn.mozilla.net
-0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
+#0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
 #0.0.0.0 accounts.firefox.com
 0.0.0.0 snippets.mozilla.com
 0.0.0.0 self-repair.mozilla.org
@@ -819,8 +821,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiles-cloudfront.cdn.mozilla.net
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 mozilla-nightly-updates.s3.amazonaws.com
-0.0.0.0 cdmdownload.adobe.com
-0.0.0.0 ciscobinary.openh264.org
+#0.0.0.0 cdmdownload.adobe.com
+#0.0.0.0 ciscobinary.openh264.org
 #
 # GOM player
 #
@@ -956,9 +958,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fiddler2.com
 0.0.0.0 cdn3.opencandy.com
 0.0.0.0 stats.unity3d.com
-0.0.0.0 configv2.unityads.unity3d.com
-0.0.0.0 auction-load.unityads.unity3d.com
-0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 fpdownload.adobe.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 store.kobobooks.com
@@ -977,11 +976,6 @@ ff02::3 ip6-allhosts
 #0.0.0.0 rink.hockeyapp.net
 #0.0.0.0 deloplen.com
 0.0.0.0 analyticsservice.buzz
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 cyrosehd.page.link
-0.0.0.0 apps.liecengsui.xyz
-0.0.0.0 www.deviceinfo.app
-0.0.0.0 valid.x86.fr
 #
 # block aircel redirects
 #
@@ -1177,6 +1171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u3y8v8u4.aucdn.net
 0.0.0.0 aumle.top
 0.0.0.0 static.avgle.com
+0.0.0.0 content1.avplayer.com
 0.0.0.0 galleryn0.awemdia.com
 0.0.0.0 amd-cdn-1.awsindstream.com
 0.0.0.0 data.bambergerkennanchitinous.com
@@ -1262,6 +1257,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 player.h-cdn.com
 0.0.0.0 www.hbd-cm.com
+0.0.0.0 headerbidding.ai
 0.0.0.0 roomimg.stream.highwebmedia.com
 0.0.0.0 streaming.humix.com
 0.0.0.0 video-meta.humix.com
@@ -1278,6 +1274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.imstks.com
 0.0.0.0 resources.infolinks.com
 0.0.0.0 cdn.insigit.com
+0.0.0.0 intendrebend.top
 0.0.0.0 interbuzznews.com
 0.0.0.0 interstitial-07.com
 0.0.0.0 interstitial-08.com
@@ -1553,6 +1550,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 init.startappservice.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 www.startappexchange.com
+#
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 cyrosehd.page.link
+0.0.0.0 apps.liecengsui.xyz
+0.0.0.0 www.deviceinfo.app
+0.0.0.0 valid.x86.fr
 #
 # gaana
 #
