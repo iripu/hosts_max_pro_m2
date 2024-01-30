@@ -61,7 +61,6 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0                                         # fix for traceroute and netstat display anomaly
-203.132.26.155 0.0.0.0                                  # to fix random freezes in assassin's creed 1 game
 #
 0.0.0.0 sdk.accountkit.com                              # facebook login
 0.0.0.0 dlt.airtel.in                                   # hijacks blocked site to show msg from airtel
@@ -802,6 +801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aus5.mozilla.org
 0.0.0.0 paste.mozilla.org                               # adding custom search engine sends info here according to an extension
 0.0.0.0 fhr.cdn.mozilla.net
+#0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
 #0.0.0.0 accounts.firefox.com
 0.0.0.0 snippets.mozilla.com
 0.0.0.0 self-repair.mozilla.org
@@ -823,7 +823,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mozilla-nightly-updates.s3.amazonaws.com
 #0.0.0.0 cdmdownload.adobe.com
 #0.0.0.0 ciscobinary.openh264.org
-#0.0.0.0 redirector.gvt1.com                            # widevine, chrome update & spell check dictionary
 #
 # GOM player
 #
@@ -1181,6 +1180,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.banhq.com
 0.0.0.0 allegro-allegro.bannerflow.com
 0.0.0.0 cdn.bannersnack.com
+0.0.0.0 creative.bbrdbr.com
 0.0.0.0 c.bebi.com
 0.0.0.0 bepiletussar.casa
 #0.0.0.0 static.bepolite.eu
@@ -1349,6 +1349,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ngp4.picinow.com
 #0.0.0.0 pickytime.com
 0.0.0.0 traffic.pinklabel.com
+0.0.0.0 cdn.pixfuture.com
 0.0.0.0 pixxur.com
 0.0.0.0 www.plaba.site
 0.0.0.0 cdn.pncloudfl.com
@@ -1399,6 +1400,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-img.steepto.com
 0.0.0.0 www.stickyday.com
 0.0.0.0 cdn.stripcash.com
+0.0.0.0 img.strpst.com
 0.0.0.0 static.surfe.be
 0.0.0.0 tablebehav.club
 0.0.0.0 images.taboola.com
