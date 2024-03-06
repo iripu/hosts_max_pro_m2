@@ -804,7 +804,7 @@ ff02::3 ip6-allhosts
 #
 # Firefox
 #
-0.0.0.0 aus5.mozilla.org
+#0.0.0.0 aus5.mozilla.org                               # firefox update
 0.0.0.0 paste.mozilla.org                               # adding custom search engine sends info here according to an extension
 0.0.0.0 fhr.cdn.mozilla.net
 #0.0.0.0 accounts.firefox.com
@@ -1104,6 +1104,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2pc0q32fod0ha.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
+0.0.0.0 d9u89prfg39s1.cloudfront.net
 #0.0.0.0 dp8hsntg6do36.cloudfront.net
 0.0.0.0 dskwugy0u6y9l.cloudfront.net
 #0.0.0.0 s0.2mdn.net
@@ -1245,6 +1246,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.everestads.net
 0.0.0.0 static.exdynsrv.com
 0.0.0.0 static.exosrv.com
+0.0.0.0 amd-cdn-1.fabrate-gooklor-i-268.site
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 static.fmpub.net
 0.0.0.0 api.freewebfonts.org
@@ -1298,6 +1300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assetscdn.jivox.com
 0.0.0.0 ads.juicyads.com
 0.0.0.0 ads-a.juicyads.com
+0.0.0.0 ads-g.juicyads.com
 #0.0.0.0 adserver.juicyads.com
 0.0.0.0 bmedia.justservingfiles.net
 0.0.0.0 adx.kul.vn
