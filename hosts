@@ -1169,6 +1169,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 g01.a.alicdn.com
 0.0.0.0 cdn2.allirontek.com
 0.0.0.0 b.am15.net
+0.0.0.0 hw-cdn2.ang-content.com
 0.0.0.0 player.aniview.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 apathylahuli.website
@@ -1220,6 +1221,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.cloudfrale.com
 0.0.0.0 cdn.cluodlfare.com
 0.0.0.0 airfoil-assets.condenastdigital.com
+0.0.0.0 capi.connatix.com
+0.0.0.0 vid.connatix.com
+0.0.0.0 vid.connatix.com.cdn.cloudflare.net
 #0.0.0.0 ads2.contentabc.com
 #0.0.0.0 hw-cdn.contentabc.com
 #0.0.0.0 hw-cdn2.contentabc.com
