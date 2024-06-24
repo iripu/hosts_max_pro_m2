@@ -143,6 +143,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 alb.reddit.com
 #0.0.0.0 np.reddit.com
 #0.0.0.0 old.reddit.com
+0.0.0.0 live-gbnews.simplestreamcdn.com
+0.0.0.0 v2-streams-elb.simplestreamcdn.com
 0.0.0.0 meo.speedvid.net
 0.0.0.0 palemoon.start.me
 #0.0.0.0 use.typekit.net                                # ea.com stops working
@@ -187,7 +189,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 rudy.adsnative.com
-0.0.0.0 match.adsrvr.org
+#0.0.0.0 match.adsrvr.org                                # football stream ads
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 ox.pxl.ace.advertising.com
@@ -557,14 +559,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 dq3yxnlzwhcys.cloudfront.net
-0.0.0.0 c1.adform.net
+#0.0.0.0 c1.adform.net                                   # football stream ads
 0.0.0.0 rev.adip.ly
 #0.0.0.0 adsrvmedia.adk2x.com
 0.0.0.0 displayincloud.adk2x.com
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 g.adnxs.com
-0.0.0.0 ib.adnxs.com
-#0.0.0.0 secure.adnxs.com
+#0.0.0.0 ib.adnxs.com                                    # football stream ads
+#0.0.0.0 secure.adnxs.com                                # football stream ads
 0.0.0.0 adserver.adtech.de
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 ums.adtech.de
@@ -1110,6 +1112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dskwugy0u6y9l.cloudfront.net
 #0.0.0.0 s0.2mdn.net
 #0.0.0.0 s1.2mdn.net
+#0.0.0.0 cdn0.360playvid.com                             # football stream ads
 0.0.0.0 91effa509f8f15a.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 ads.a-static.com
@@ -1180,7 +1183,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u3y8v8u4.aucdn.net
 0.0.0.0 aumle.top
 0.0.0.0 static.avgle.com
-0.0.0.0 content1.avplayer.com
+#0.0.0.0 content1.avplayer.com                           # football stream ads
 0.0.0.0 galleryn0.awemdia.com
 0.0.0.0 amd-cdn-1.awsindstream.com
 0.0.0.0 data.bambergerkennanchitinous.com
@@ -1273,6 +1276,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hbd-cm.com
 0.0.0.0 headerbidding.ai
 0.0.0.0 roomimg.stream.highwebmedia.com
+0.0.0.0 hugahuga.xyz
 0.0.0.0 streaming.humix.com
 0.0.0.0 video-meta.humix.com
 0.0.0.0 x4i6u4n6.ssl.hwcdn.net
@@ -1389,6 +1393,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.rtbsystem.org
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 video.sacdnssedge.com
 0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cdn.sb-inv1.com
