@@ -154,6 +154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 vuukle.com
 0.0.0.0 cdn.vuukle.com
+0.0.0.0 dishp1eprs.blob.core.windows.net                # dishtv ad media
 #0.0.0.0 downloads.wordpress.org
 0.0.0.0 yts.ag
 0.0.0.0 yts.am
