@@ -1104,6 +1104,7 @@ ff02::3 ip6-allhosts
 #
 0.0.0.0 d10lumateci472.cloudfront.net
 #0.0.0.0 d1u4oo4rb13yy8.cloudfront.net
+0.0.0.0 d267ifd4aj9j4y.cloudfront.net
 0.0.0.0 d2er1uyk6qcknh.cloudfront.net   # or use curacaohaloing.website
 0.0.0.0 d2pc0q32fod0ha.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
@@ -1114,6 +1115,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 s0.2mdn.net
 #0.0.0.0 s1.2mdn.net
 #0.0.0.0 cdn0.360playvid.com                             # football stream ads
+0.0.0.0 img.3lift.com
 0.0.0.0 91effa509f8f15a.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 ads.a-static.com
@@ -1212,6 +1214,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cloud.cashtrafic.info
 0.0.0.0 pt.cdctwm.com
 0.0.0.0 img.cdn.house
+0.0.0.0 1856258272.rsc.cdn77.org
 0.0.0.0 pads.cdnads.com
 #0.0.0.0 padsdel.cdnads.com
 #0.0.0.0 padsdel2.cdnads.com
@@ -1246,6 +1249,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 crrepo.com
 0.0.0.0 c.d1272serve.xyz
 0.0.0.0 video.dailymail.co.uk
+0.0.0.0 b-hls-06.doppiocdn.media
+0.0.0.0 b-hls-24.doppiocdn.media
+0.0.0.0 edge-hls.doppiocdn.media
+0.0.0.0 b-hls-24.doppiocdn.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 www.duoup.info
 0.0.0.0 www.dwetwdstom1020.com
@@ -1285,6 +1292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 icotrack.net
 0.0.0.0 ideliv.net
 0.0.0.0 idelv.net
+0.0.0.0 www.imgbchw.com
 0.0.0.0 cl.imghosts.com
 0.0.0.0 imglnkd.com
 0.0.0.0 www.imglnkb.com
@@ -1394,6 +1402,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 img.rtbsystem.org
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 b-hls-03.sacdnssedge.com
+0.0.0.0 b-hls-09.sacdnssedge.com
+0.0.0.0 b-hls-19.sacdnssedge.com
 0.0.0.0 video.sacdnssedge.com
 0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 ced.sascdn.com
