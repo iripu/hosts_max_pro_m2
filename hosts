@@ -689,6 +689,7 @@ ff02::3 ip6-allhosts
 ##0.0.0.0 lyhandredsa.club                               # ad notif rhs
 #0.0.0.0 montikolti.com                                  # ad notif rhs
 #0.0.0.0 ntvpforever.com                                 # ad notif rhs bottom
+#0.0.0.0 pertawee.net
 #0.0.0.0 propu.sh
 #0.0.0.0 pushnest.com
 #0.0.0.0 pushrase.com
@@ -747,6 +748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lp.securebrowser.com
 0.0.0.0 sharesuper.info
 0.0.0.0 clientn.super-mp3-download.com
+0.0.0.0 cnjzh6qpd231r4f29qyekjtv5i.superfantastically.makeup
 0.0.0.0 www.socialnewpages.com
 0.0.0.0 bro.terra0101.com
 #0.0.0.0 tr2srtr.com
@@ -828,7 +830,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 addons-discovery.cdn.mozilla.net
 0.0.0.0 tiles-cloudfront.cdn.mozilla.net
-0.0.0.0 firefox.settings.services.mozilla.com
+#0.0.0.0 firefox.settings.services.mozilla.com          # inbuilt translation service
 0.0.0.0 mozilla-nightly-updates.s3.amazonaws.com
 #0.0.0.0 cdmdownload.adobe.com
 #0.0.0.0 ciscobinary.openh264.org
@@ -1328,6 +1330,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gido.linkatar.com
 0.0.0.0 cache.linkstorm.net
 0.0.0.0 littlecdn.com
+0.0.0.0 clck.littlecdn.com
 0.0.0.0 www.liveinstyle.com
 0.0.0.0 img.lmadps.jp
 0.0.0.0 lugiy.ru
@@ -1366,6 +1369,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 int.nyt.com
 0.0.0.0 offerimage.com
 #0.0.0.0 track.in.omgpm.com
+0.0.0.0 onmanectrictor.com
 0.0.0.0 ssl-i.cdn.openx.com
 0.0.0.0 www.ora.tv
 0.0.0.0 widgets.outbrain.com
