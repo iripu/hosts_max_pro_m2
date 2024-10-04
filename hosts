@@ -689,7 +689,7 @@ ff02::3 ip6-allhosts
 ##0.0.0.0 lyhandredsa.club                               # ad notif rhs
 #0.0.0.0 montikolti.com                                  # ad notif rhs
 #0.0.0.0 ntvpforever.com                                 # ad notif rhs bottom
-#0.0.0.0 pertawee.net
+0.0.0.0 pertawee.net
 #0.0.0.0 propu.sh
 #0.0.0.0 pushnest.com
 #0.0.0.0 pushrase.com
@@ -1213,6 +1213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.bookmsg.com
 0.0.0.0 console.brax-cdn.com
 0.0.0.0 account.bulletprofit.com
+0.0.0.0 byzoruator.com
 0.0.0.0 cloud.cashtrafic.info
 0.0.0.0 pt.cdctwm.com
 0.0.0.0 img.cdn.house
