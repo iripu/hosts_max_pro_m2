@@ -140,6 +140,7 @@ ff02::3 ip6-allhosts
 #0.0.0.0 c2.popads.net
 0.0.0.0 cdn.privacy-mgmt.com                            # cookie banner
 0.0.0.0 img.readitlater.com
+0.0.0.0 www.recrd.com
 0.0.0.0 alb.reddit.com
 #0.0.0.0 np.reddit.com
 #0.0.0.0 old.reddit.com
