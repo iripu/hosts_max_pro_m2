@@ -1437,6 +1437,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imgg-cdn.steepto.com
 0.0.0.0 s-img.steepto.com
 0.0.0.0 www.stickyday.com
+0.0.0.0 cdn.storageimagedisplay.com
 0.0.0.0 cdn.stripcash.com
 0.0.0.0 img.strpst.com
 0.0.0.0 static.surfe.be
@@ -1564,6 +1565,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 services.vlitag.com
 0.0.0.0 assets.vlitag.com
+#
+0.0.0.0 cdn-gsmarena-com.cdn.ampproject.org
+0.0.0.0 cdn2-gsmarena-com.cdn.ampproject.org
+0.0.0.0 fdn2-gsmarena-com.cdn.ampproject.org
+0.0.0.0 m-gsmarena-com.cdn.ampproject.org
 #
 #0.0.0.0 api.giphy.com
 0.0.0.0 api.tenor.com
