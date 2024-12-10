@@ -134,6 +134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 liveblogapi.nw18.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 vp.nyt.com
+0.0.0.0 net.geo.opera.com
 0.0.0.0 start.palemoon.org
 #0.0.0.0 pocket-image-cache.com
 #0.0.0.0 c1.popads.net
@@ -1246,6 +1247,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn3.cpmstar.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 cdn.creative-bars1.com
+0.0.0.0 cdn.creative-stat1.com
 0.0.0.0 cdn.creativesumo.com
 0.0.0.0 imageproxy.as.criteo.net
 0.0.0.0 pix.as.criteo.net
