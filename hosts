@@ -1568,11 +1568,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 services.vlitag.com
 0.0.0.0 assets.vlitag.com
 #
-0.0.0.0 cdn-gsmarena-com.cdn.ampproject.org
-0.0.0.0 cdn2-gsmarena-com.cdn.ampproject.org
-0.0.0.0 fdn2-gsmarena-com.cdn.ampproject.org
-0.0.0.0 m-gsmarena-com.cdn.ampproject.org
-#
 #0.0.0.0 api.giphy.com
 0.0.0.0 api.tenor.com
 #0.0.0.0 wa.tenor.co
