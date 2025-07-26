@@ -936,6 +936,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.recuva.piriform.com
 0.0.0.0 www.speccy.piriform.com
 #
+# WPS Office
+#
+0.0.0.0 account.wps.com
+0.0.0.0 api-ad-adapter.wps.com
+0.0.0.0 feedback.wps.com
+0.0.0.0 ovs-activity.wps.com
+0.0.0.0 ovs-shopwindow-server.wps.com
+0.0.0.0 template.wps.com
+#
 # Other softwares
 #
 0.0.0.0 ipm.avira.com
@@ -1188,6 +1197,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.blablacar.in
 0.0.0.0 creative.blcdog.com
 0.0.0.0 cdn.bncloudfl.com
+0.0.0.0 bobapsoabauns.com
 0.0.0.0 bonus365.site
 0.0.0.0 static.bookmsg.com
 0.0.0.0 console.brax-cdn.com
@@ -1210,6 +1220,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.cloudimagesb.com
 0.0.0.0 cdn.cloudfrale.com
 0.0.0.0 cdn.cluodlfare.com
+#0.0.0.0 c.clvrads.com
 0.0.0.0 airfoil-assets.condenastdigital.com
 0.0.0.0 capi.connatix.com
 0.0.0.0 vid.connatix.com
@@ -1224,6 +1235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn3.cpmstar.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 cdn.creative-bars1.com
+0.0.0.0 cdn.creative-sb1.com
 0.0.0.0 cdn.creative-stat1.com
 0.0.0.0 cdn.creativesumo.com
 0.0.0.0 imageproxy.as.criteo.net
@@ -1260,6 +1272,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ade.googlesyndication.com
 #0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 www.greenlanemarketing.com
 0.0.0.0 static.groovinads.com
 0.0.0.0 thumby.grvcdn.com
 0.0.0.0 encrypted-tbn1.gstatic.com
@@ -1357,6 +1370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 offerimage.com
 #0.0.0.0 track.in.omgpm.com
 0.0.0.0 onmanectrictor.com
+#0.0.0.0 oomaugnaps.net
 0.0.0.0 ssl-i.cdn.openx.com
 0.0.0.0 www.ora.tv
 0.0.0.0 widgets.outbrain.com
