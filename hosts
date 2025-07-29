@@ -36,6 +36,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0                                         # fix for traceroute and netstat display anomaly
 203.132.26.155 0.0.0.0                                  # to fix random freezes in assassin's creed 1 game
 #
+0.0.0.0 html-load.com                   #testing to disable sourceforge redirect
+0.0.0.0 analytics.slashdotmedia.com     #testing to disable sourceforge redirect
+#
 0.0.0.0 sdk.accountkit.com                              # facebook login
 0.0.0.0 dlt.airtel.in                                   # hijacks blocked site to show msg from airtel
 0.0.0.0 one.airtel.in
@@ -785,6 +788,64 @@ ff02::3 ip6-allhosts
 0.0.0.0 cn.bing.com
 0.0.0.0 edge-conumer-static.azureedge.net
 0.0.0.0 nav-edge.smartscreen.microsoft.com
+#
+# MS Office
+#
+0.0.0.0 clients.config.office.net
+0.0.0.0 config.officeapps.live.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 aue-azsc-config.officeapps.live.com
+0.0.0.0 asia.clients.config.office.akadns.net
+0.0.0.0 asia.configsvc1.live.com.akadns.net
+0.0.0.0 geo.clients.config.office.akadns.net
+0.0.0.0 prod.configsvc1.live.com.akadns.net
+0.0.0.0 ecs.office.com
+0.0.0.0 ecs.office.trafficmanager.net
+0.0.0.0 ecs-office.s-0005.dual-s-msedge.net
+0.0.0.0 dual-s-0005-office.config.skype.com
+0.0.0.0 s-0005.dual-s-msedge.net
+#
+# WPS Office
+#
+#0.0.0.0 www.wps.com
+0.0.0.0 d147klt5ohmayp.cloudfront.net
+0.0.0.0 d270073ctm6rok.cloudfront.net
+0.0.0.0 d3b6yi7qiiwodd.cloudfront.net
+0.0.0.0 abtest-api-mb.4wps.net
+0.0.0.0 abtest-api.4wps.net
+0.0.0.0 abtest-api.wps.com
+0.0.0.0 account.wps.com
+0.0.0.0 ai-in.wps.com
+0.0.0.0 ai.wps.com
+0.0.0.0 androidweb.wps.com
+0.0.0.0 androidweb.wps.com.cname.4wps.net
+0.0.0.0 api-ad-adapter.wps.com
+0.0.0.0 api-wps-param-mb.4wps.net
+0.0.0.0 api-wps-param.4wps.net
+0.0.0.0 api.4wps.net
+0.0.0.0 api.wps.com
+0.0.0.0 clb-intl-data-event-ksoftstore-1228942406.us-west-2.elb.amazonaws.com
+0.0.0.0 cloud-wpscdn-com.wps.com
+0.0.0.0 cloud.wpscdn.com
+0.0.0.0 dyn.kingsoftstore.com
+0.0.0.0 dyn.kingsoftstore.wps.com
+0.0.0.0 feedback.wps.com
+0.0.0.0 istio-gateway.in.entry.4wps.net
+0.0.0.0 new-nginx-gateway-service.default.mb.entry.4wps.net
+0.0.0.0 nginx-gateway-service.default.mb.entry.4wps.net
+0.0.0.0 ovs-activity.wps.com
+0.0.0.0 ovs-shopwindow-server.wps.com
+0.0.0.0 ovx-ctv4.bpltm.com
+0.0.0.0 params.wps.com
+0.0.0.0 template.wps.com
+0.0.0.0 update.kingsoftstore.com
+0.0.0.0 update.kingsoftstore.wps.com
+0.0.0.0 us-dyn.kingsoftstore.wps.com
+0.0.0.0 us-update.kingsoftstore.wps.com
+0.0.0.0 wdl1.pcfg.cache.wpscdn.com
+0.0.0.0 wdl1.pcfg.cache.wpscdn.com.496760.volcmcdn3.com
+0.0.0.0 wdl1.pcfg.cache.wpscdn.com.wps.volcfake.com.volcgslb.com
+0.0.0.0 website-cdn.4wps.net
 #
 # Firefox
 #
