@@ -834,6 +834,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 new-nginx-gateway-service.default.mb.entry.4wps.net
 0.0.0.0 nginx-gateway-service.default.mb.entry.4wps.net
 0.0.0.0 ovs-activity.wps.com
+0.0.0.0 ovs-activity-server.wps.com
+0.0.0.0 ovs-activity.4wps.net
+0.0.0.0 ovs-activity-mb.4wps.net
 0.0.0.0 ovs-shopwindow-server.wps.com
 0.0.0.0 ovx-ctv4.bpltm.com
 0.0.0.0 params.wps.com
