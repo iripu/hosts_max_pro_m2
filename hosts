@@ -842,9 +842,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.kingsoftstore.wps.com
 0.0.0.0 us-dyn.kingsoftstore.wps.com
 0.0.0.0 us-update.kingsoftstore.wps.com
-#0.0.0.0 wdl1.pcfg.cache.wpscdn.com                      # wps office update & download..
-#0.0.0.0 wdl1.pcfg.cache.wpscdn.com.496760.volcmcdn3.com
-#0.0.0.0 wdl1.pcfg.cache.wpscdn.com.wps.volcfake.com.volcgslb.com
+#0.0.0.0 wdl1.pcfg.cache.wpscdn.com                      # wps office update & download
+0.0.0.0 wdl1.pcfg.cache.wpscdn.com.496760.volcmcdn3.com
+0.0.0.0 wdl1.pcfg.cache.wpscdn.com.wps.volcfake.com.volcgslb.com
 0.0.0.0 website-cdn.4wps.net
 #
 # Firefox
