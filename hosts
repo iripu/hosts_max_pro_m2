@@ -1475,6 +1475,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 b-hls-09.sacdnssedge.com
 0.0.0.0 b-hls-19.sacdnssedge.com
 0.0.0.0 video.sacdnssedge.com
+0.0.0.0 client-static.saleassist.ai
 0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cdn.sb-inv1.com
