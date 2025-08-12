@@ -1299,6 +1299,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn3.cpmstar.com
 0.0.0.0 ssl.cdne.cpmstar.com
 0.0.0.0 cdn.creative-bars1.com
+0.0.0.0 creative-sb1.com
 0.0.0.0 cdn.creative-sb1.com
 0.0.0.0 cdn.creative-stat1.com
 0.0.0.0 cdn.creativesumo.com
@@ -1339,7 +1340,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.greenlanemarketing.com
 0.0.0.0 static.groovinads.com
 0.0.0.0 thumby.grvcdn.com
-0.0.0.0 encrypted-tbn1.gstatic.com
+#0.0.0.0 encrypted-tbn1.gstatic.com                     # disables some images in google search
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 player.h-cdn.com
 0.0.0.0 www.hbd-cm.com
